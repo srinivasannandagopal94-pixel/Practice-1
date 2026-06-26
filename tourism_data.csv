@@ -1,0 +1,1001 @@
+LocationID,Country,Category,Visitors,Rating
+L0001,Egypt,City Break,4094924,1.7
+L0002,France,City Break,1012015,2.2
+L0003,Turkey,Skiing,1880716,2.8
+L0004,Germany,Cultural,1410578,5.0
+L0005,Turkey,Beach,1882660,1.9
+L0006,South Africa,Adventure,3116194,1.4
+L0007,New Zealand,Adventure,2073738,3.3
+L0008,Italy,City Break,2074204,1.4
+L0009,Thailand,Nature,2237391,3.3
+L0010,Greece,City Break,4382305,2.7
+L0011,Japan,Historical,2919409,2.2
+L0012,Germany,Adventure,1852685,2.4
+L0013,South Africa,Skiing,4075307,1.4
+L0014,Spain,Skiing,938248,4.4
+L0015,South Africa,Adventure,1689409,2.4
+L0016,Peru,Nature,2801619,3.3
+L0017,South Africa,Beach,1158173,2.1
+L0018,Japan,Beach,349323,4.7
+L0019,Turkey,Nature,2186368,1.6
+L0020,Greece,City Break,1422174,4.9
+L0021,Argentina,Adventure,731066,4.4
+L0022,France,Nature,1215103,1.6
+L0023,Spain,Beach,1141649,2.8
+L0024,India,Beach,133353,1.3
+L0025,Brazil,Historical,836399,1.3
+L0026,Australia,Adventure,2318922,1.4
+L0027,Brazil,Cultural,703843,2.2
+L0028,France,Beach,1485942,3.8
+L0029,China,Historical,4481231,2.7
+L0030,China,City Break,1311635,1.7
+L0031,Turkey,Skiing,2667771,1.2
+L0032,France,Cultural,3582919,3.1
+L0033,New Zealand,Nature,762289,2.5
+L0034,Peru,City Break,394936,2.0
+L0035,Spain,Historical,1625928,3.4
+L0036,France,Beach,2119663,2.4
+L0037,China,Beach,1141092,4.2
+L0038,South Africa,Nature,2489553,3.2
+L0039,Peru,Adventure,3448049,2.7
+L0040,Argentina,Historical,4752316,2.1
+L0041,Peru,Beach,161606,4.0
+L0042,USA,Nature,2011764,5.0
+L0043,Spain,Beach,2847647,2.3
+L0044,Japan,Nature,3449929,4.9
+L0045,New Zealand,Skiing,4009360,1.2
+L0046,Germany,Adventure,1028139,2.8
+L0047,Turkey,Beach,321633,1.4
+L0048,USA,Beach,2640835,2.7
+L0049,Egypt,Nature,3496178,3.8
+L0050,Thailand,City Break,1448380,4.6
+L0051,Turkey,Adventure,3591649,1.1
+L0052,Peru,Historical,570456,3.9
+L0053,Argentina,Nature,3789873,1.7
+L0054,Italy,Beach,2423588,4.5
+L0055,Peru,Adventure,2789554,4.8
+L0056,New Zealand,Cultural,2025311,1.8
+L0057,Canada,City Break,4463790,2.0
+L0058,Greece,Adventure,1887494,3.1
+L0059,Brazil,Cultural,1979720,4.1
+L0060,Spain,City Break,2171789,1.4
+L0061,South Africa,Cultural,4474825,2.3
+L0062,South Africa,Beach,3930631,1.1
+L0063,Argentina,City Break,4922417,2.3
+L0064,Argentina,City Break,3986481,2.1
+L0065,Peru,Historical,3564400,3.0
+L0066,Greece,City Break,145546,2.0
+L0067,Peru,Adventure,4463663,1.2
+L0068,Mexico,City Break,1794492,5.0
+L0069,India,Nature,341072,1.4
+L0070,Greece,Adventure,3524208,3.3
+L0071,Mexico,Cultural,3192997,3.7
+L0072,USA,Cultural,2853548,3.6
+L0073,Japan,Historical,2105442,2.3
+L0074,China,Cultural,4220818,3.0
+L0075,Spain,Cultural,3679009,3.8
+L0076,Australia,City Break,761369,1.1
+L0077,New Zealand,Adventure,2117944,2.4
+L0078,Canada,Skiing,3363094,3.7
+L0079,Australia,Nature,2489805,3.5
+L0080,Canada,Beach,3300780,4.6
+L0081,Mexico,Cultural,4130388,3.6
+L0082,Thailand,Skiing,4137288,1.3
+L0083,Canada,Cultural,286029,2.4
+L0084,Brazil,Skiing,3292347,1.4
+L0085,Greece,Historical,2788427,1.8
+L0086,France,Skiing,3930074,4.2
+L0087,Italy,Cultural,3240483,2.2
+L0088,Spain,City Break,205942,2.6
+L0089,Mexico,Adventure,3355697,1.0
+L0090,Peru,Skiing,3613729,4.1
+L0091,France,City Break,4900243,1.8
+L0092,South Africa,Nature,3581279,4.9
+L0093,Brazil,City Break,4562594,1.6
+L0094,France,Adventure,4266481,1.7
+L0095,Thailand,Adventure,1562135,4.7
+L0096,Thailand,Adventure,2403394,2.2
+L0097,Egypt,Nature,3724103,3.2
+L0098,Australia,City Break,3198947,2.7
+L0099,Greece,Beach,139666,1.4
+L0100,Argentina,Nature,3393111,4.8
+L0101,India,Historical,1677634,3.8
+L0102,France,Historical,4476165,2.3
+L0103,Germany,Historical,1703157,3.9
+L0104,Greece,Adventure,343380,4.4
+L0105,South Africa,Adventure,149355,3.1
+L0106,Argentina,Cultural,378942,4.4
+L0107,Turkey,Adventure,1117004,1.3
+L0108,Brazil,Adventure,2740814,4.1
+L0109,Thailand,City Break,1199600,4.4
+L0110,Australia,Skiing,377315,5.0
+L0111,South Africa,Adventure,3431814,4.2
+L0112,India,Beach,4257219,4.3
+L0113,Germany,Beach,3147027,2.5
+L0114,New Zealand,Skiing,4106299,4.0
+L0115,Italy,Skiing,1873561,3.8
+L0116,France,Nature,2012588,4.8
+L0117,Brazil,Cultural,3516505,1.4
+L0118,India,Skiing,4326516,3.0
+L0119,Greece,Beach,1873039,1.5
+L0120,Spain,Beach,4608286,3.1
+L0121,Argentina,Historical,1196646,3.3
+L0122,Greece,Skiing,3664492,1.7
+L0123,Thailand,City Break,463006,3.3
+L0124,Peru,Cultural,243801,2.5
+L0125,Japan,Historical,241685,1.4
+L0126,Spain,Historical,3702962,3.1
+L0127,Italy,Beach,3810665,4.0
+L0128,South Africa,City Break,1856847,2.2
+L0129,Brazil,Beach,3908305,4.1
+L0130,Egypt,City Break,1379808,1.7
+L0131,USA,Cultural,3408632,1.4
+L0132,South Africa,Adventure,299908,3.3
+L0133,India,Nature,3876010,1.9
+L0134,India,Skiing,169236,2.4
+L0135,France,City Break,1631410,3.2
+L0136,Thailand,Skiing,4168950,3.5
+L0137,Egypt,Adventure,4701060,3.9
+L0138,Greece,Cultural,510921,4.9
+L0139,India,Nature,288397,1.8
+L0140,Greece,Historical,2708486,1.4
+L0141,Mexico,Historical,901898,3.3
+L0142,Germany,Beach,3037523,4.2
+L0143,Thailand,Historical,1898264,2.3
+L0144,South Africa,Historical,4512707,4.7
+L0145,USA,City Break,562943,2.5
+L0146,Germany,Historical,4550517,4.6
+L0147,South Africa,Adventure,1090274,2.4
+L0148,New Zealand,Skiing,1074245,4.4
+L0149,Australia,Historical,3252269,1.2
+L0150,Spain,City Break,2779839,2.9
+L0151,Argentina,Nature,788314,2.3
+L0152,Brazil,Skiing,1374574,1.2
+L0153,Turkey,Historical,1685048,2.8
+L0154,Germany,Historical,4489637,4.1
+L0155,Egypt,Adventure,2960555,4.1
+L0156,New Zealand,Beach,1372112,1.9
+L0157,Thailand,City Break,4534723,3.0
+L0158,Argentina,City Break,1718176,3.6
+L0159,Mexico,Adventure,1969659,1.3
+L0160,China,Beach,4605122,3.3
+L0161,Canada,Beach,2464122,1.2
+L0162,Japan,Nature,2635403,3.1
+L0163,Turkey,City Break,880774,1.9
+L0164,Canada,Historical,3621545,2.4
+L0165,India,Adventure,2739889,2.9
+L0166,Australia,City Break,4495693,3.2
+L0167,Peru,Cultural,2357122,3.2
+L0168,Thailand,Adventure,3306290,1.7
+L0169,Australia,Nature,4136611,4.4
+L0170,Australia,Cultural,3831148,1.6
+L0171,India,Skiing,3753849,4.2
+L0172,New Zealand,Cultural,4812759,2.2
+L0173,India,Skiing,4992961,3.7
+L0174,Spain,Skiing,1298856,1.7
+L0175,USA,Nature,344988,3.0
+L0176,USA,Cultural,4429476,2.3
+L0177,Australia,Adventure,383370,3.8
+L0178,Egypt,City Break,4937255,2.4
+L0179,Japan,Adventure,373814,2.8
+L0180,New Zealand,City Break,1573980,2.2
+L0181,Greece,Nature,1057399,2.3
+L0182,South Africa,City Break,3788181,4.6
+L0183,South Africa,Nature,578419,4.1
+L0184,New Zealand,Beach,2554015,1.3
+L0185,Canada,Adventure,1897817,3.2
+L0186,India,Nature,2821702,4.6
+L0187,France,City Break,3363504,2.4
+L0188,Spain,Nature,2644300,3.2
+L0189,USA,Skiing,391504,3.0
+L0190,Japan,Nature,2951612,2.4
+L0191,New Zealand,Historical,1288476,3.6
+L0192,Germany,Adventure,4461756,1.9
+L0193,Egypt,Adventure,1505794,3.0
+L0194,Canada,Nature,2174886,3.7
+L0195,South Africa,Historical,3000269,1.2
+L0196,USA,City Break,1694704,3.8
+L0197,Italy,Beach,3624306,4.8
+L0198,USA,Adventure,3982400,1.7
+L0199,Japan,Adventure,2568384,4.7
+L0200,France,City Break,474183,2.5
+L0201,India,Skiing,1188504,3.4
+L0202,Turkey,Cultural,4519225,4.3
+L0203,France,Nature,4592601,4.3
+L0204,USA,Skiing,3295281,2.4
+L0205,Argentina,Beach,4197935,1.8
+L0206,Italy,Historical,3816313,3.6
+L0207,Turkey,Historical,1382875,2.9
+L0208,New Zealand,Historical,4089479,3.3
+L0209,Japan,Beach,702184,1.8
+L0210,Australia,Cultural,458354,2.2
+L0211,Turkey,Cultural,1554202,1.8
+L0212,USA,City Break,2294979,3.6
+L0213,Turkey,City Break,4958702,3.7
+L0214,South Africa,Skiing,551885,4.5
+L0215,Egypt,Adventure,4185288,4.1
+L0216,Australia,Adventure,366450,5.0
+L0217,Canada,Cultural,2570771,2.8
+L0218,Peru,Skiing,325987,2.2
+L0219,Peru,City Break,3119903,5.0
+L0220,Greece,Cultural,4072406,4.3
+L0221,Canada,Historical,3457464,3.0
+L0222,Argentina,Skiing,1871556,3.6
+L0223,USA,Nature,1253545,3.2
+L0224,USA,Historical,2637436,4.8
+L0225,Italy,Historical,2406973,4.8
+L0226,Argentina,Cultural,1387924,5.0
+L0227,China,Beach,920176,5.0
+L0228,Japan,City Break,1833750,3.5
+L0229,Mexico,Nature,2044540,3.0
+L0230,New Zealand,Historical,109956,4.7
+L0231,Turkey,Nature,1127467,4.8
+L0232,India,Cultural,1544263,2.0
+L0233,China,City Break,3406692,3.0
+L0234,Canada,Adventure,4304646,1.6
+L0235,Peru,Adventure,198829,2.5
+L0236,Greece,City Break,3039438,2.0
+L0237,Brazil,Beach,1084228,2.2
+L0238,Mexico,Cultural,3208048,4.8
+L0239,France,Nature,4715485,1.2
+L0240,China,Skiing,3040589,1.3
+L0241,Thailand,Nature,1879903,2.9
+L0242,Japan,Historical,2588202,1.8
+L0243,Spain,City Break,110175,2.9
+L0244,China,Cultural,3914253,2.6
+L0245,Peru,Beach,568524,3.8
+L0246,Japan,Nature,4158667,4.7
+L0247,Brazil,City Break,4239876,3.7
+L0248,Mexico,Historical,816644,3.4
+L0249,Italy,City Break,4313057,4.8
+L0250,Brazil,Beach,2414187,1.3
+L0251,Spain,Adventure,3096256,4.5
+L0252,India,Cultural,4119714,3.5
+L0253,Japan,Nature,1174852,2.0
+L0254,Argentina,Skiing,4956879,1.3
+L0255,India,Adventure,2230218,1.7
+L0256,Egypt,Historical,1096474,4.1
+L0257,China,Cultural,1227107,1.8
+L0258,Australia,Nature,3463780,3.8
+L0259,India,Skiing,4232241,2.0
+L0260,Greece,City Break,4113563,3.7
+L0261,Japan,Cultural,1286592,2.7
+L0262,Germany,Beach,1483917,4.8
+L0263,Argentina,Skiing,3039329,4.6
+L0264,Turkey,Nature,1093926,1.8
+L0265,Italy,Historical,2133699,3.6
+L0266,Australia,Adventure,2081705,3.7
+L0267,Spain,Skiing,1449131,2.8
+L0268,Peru,Skiing,4376117,1.6
+L0269,South Africa,Beach,1351512,4.3
+L0270,Argentina,Skiing,1274734,4.7
+L0271,China,Beach,2136219,3.4
+L0272,Brazil,Adventure,4377440,2.6
+L0273,Turkey,Skiing,758188,1.4
+L0274,Japan,City Break,2651465,4.0
+L0275,Australia,City Break,4688913,1.6
+L0276,Spain,Cultural,2559274,1.3
+L0277,South Africa,Skiing,1927981,3.8
+L0278,Peru,City Break,3143577,4.5
+L0279,Peru,Skiing,4690525,2.1
+L0280,Australia,Nature,907359,3.5
+L0281,France,Beach,3227338,2.0
+L0282,Australia,Historical,695645,1.3
+L0283,Turkey,Beach,3334637,3.7
+L0284,Spain,Nature,4320280,2.8
+L0285,Egypt,Adventure,299804,3.3
+L0286,Mexico,Skiing,2371044,3.5
+L0287,Germany,Adventure,4381937,2.6
+L0288,France,Cultural,744630,3.0
+L0289,France,Beach,820693,2.1
+L0290,South Africa,City Break,1895958,2.1
+L0291,France,Adventure,4424588,4.0
+L0292,Mexico,Historical,3891951,2.0
+L0293,India,Beach,918803,2.7
+L0294,India,Historical,4585350,1.5
+L0295,China,Skiing,2346816,1.3
+L0296,Peru,Nature,4330255,1.7
+L0297,Greece,Adventure,1757274,3.2
+L0298,Peru,Adventure,3422641,2.0
+L0299,China,Historical,3420232,3.7
+L0300,France,Cultural,1174373,2.6
+L0301,Greece,Cultural,2544741,2.2
+L0302,Turkey,City Break,2055850,2.8
+L0303,Argentina,Historical,2269869,3.7
+L0304,Italy,Nature,2263950,4.8
+L0305,Egypt,Nature,4410600,1.4
+L0306,Peru,Historical,2086487,4.6
+L0307,France,City Break,2735692,2.1
+L0308,Greece,Historical,1707945,2.2
+L0309,India,Nature,3733059,2.7
+L0310,Japan,Historical,1314487,1.9
+L0311,New Zealand,City Break,246860,3.4
+L0312,Turkey,Adventure,1008444,2.3
+L0313,Thailand,Historical,2111616,4.8
+L0314,USA,Adventure,4415653,4.1
+L0315,India,Nature,4746039,3.4
+L0316,Spain,City Break,1319617,3.1
+L0317,Italy,Adventure,1889563,1.0
+L0318,South Africa,Cultural,4460429,4.5
+L0319,Japan,Adventure,1196903,4.0
+L0320,Turkey,Skiing,1346001,4.0
+L0321,Argentina,Beach,3656311,2.3
+L0322,Egypt,Nature,966344,1.8
+L0323,Turkey,Beach,2690457,1.3
+L0324,Greece,Beach,2963330,3.6
+L0325,Thailand,Skiing,4000758,3.7
+L0326,Brazil,Adventure,1457109,1.3
+L0327,Italy,Historical,320548,4.9
+L0328,South Africa,Cultural,4776669,4.2
+L0329,France,Adventure,1657191,1.9
+L0330,Turkey,City Break,4847090,2.7
+L0331,USA,City Break,2650882,1.2
+L0332,France,City Break,4932611,4.0
+L0333,France,Beach,4441114,1.0
+L0334,New Zealand,Nature,1747395,4.7
+L0335,Spain,Skiing,4799257,1.6
+L0336,Greece,Nature,3960446,3.3
+L0337,Italy,Beach,2698945,3.9
+L0338,South Africa,Beach,2941293,4.0
+L0339,India,Beach,1768971,4.8
+L0340,South Africa,Cultural,2993513,4.9
+L0341,Argentina,Cultural,596274,3.6
+L0342,Egypt,Cultural,2218166,4.5
+L0343,Germany,Cultural,4112920,3.7
+L0344,Spain,Adventure,784641,2.7
+L0345,USA,Adventure,4723159,1.6
+L0346,Brazil,Adventure,2337882,4.8
+L0347,Australia,Adventure,2283990,2.1
+L0348,South Africa,Historical,2915271,1.8
+L0349,South Africa,Historical,3068144,2.6
+L0350,Spain,Nature,1620258,3.6
+L0351,Canada,Adventure,2000782,4.5
+L0352,Greece,Beach,2500783,4.8
+L0353,Egypt,Adventure,3348007,4.0
+L0354,Spain,Skiing,3481830,1.6
+L0355,South Africa,Skiing,2118888,4.9
+L0356,Spain,City Break,2154012,4.9
+L0357,Greece,Beach,4425440,2.8
+L0358,France,Adventure,1444749,2.6
+L0359,Spain,Adventure,2899254,2.7
+L0360,Thailand,Nature,3043661,2.7
+L0361,Brazil,Beach,817437,2.9
+L0362,USA,Adventure,3738683,3.9
+L0363,Italy,Cultural,1530566,2.0
+L0364,Egypt,Historical,1527130,3.1
+L0365,Argentina,Cultural,1842203,3.1
+L0366,Greece,Cultural,2690987,3.4
+L0367,USA,Adventure,124510,3.8
+L0368,Turkey,Adventure,1660455,1.5
+L0369,Canada,Beach,1945890,1.1
+L0370,Australia,Beach,2630277,3.9
+L0371,USA,Historical,4564681,1.9
+L0372,Brazil,Cultural,2566816,4.2
+L0373,India,Nature,2108284,1.1
+L0374,Italy,Skiing,426270,3.5
+L0375,USA,Adventure,3496610,1.1
+L0376,Thailand,Nature,2091881,1.5
+L0377,Peru,Beach,2313582,4.8
+L0378,Brazil,City Break,533386,2.7
+L0379,France,Beach,3804310,2.6
+L0380,USA,Beach,4022502,1.7
+L0381,Canada,Adventure,1930413,4.2
+L0382,Japan,Adventure,3294087,4.1
+L0383,Spain,Historical,3233752,4.1
+L0384,Egypt,Adventure,300339,4.9
+L0385,Turkey,Cultural,4583576,4.1
+L0386,South Africa,Adventure,424181,1.5
+L0387,Peru,Historical,3677800,1.9
+L0388,Japan,Cultural,1531788,2.3
+L0389,Egypt,Beach,3569393,3.7
+L0390,Mexico,Cultural,1306731,1.1
+L0391,New Zealand,Adventure,4146335,2.5
+L0392,Germany,Historical,1334626,4.5
+L0393,Turkey,Skiing,2406905,3.5
+L0394,Canada,Cultural,4350547,2.4
+L0395,New Zealand,Skiing,2926603,3.7
+L0396,Mexico,Historical,1260401,2.1
+L0397,France,Beach,2891303,3.6
+L0398,Australia,Historical,3626376,3.9
+L0399,Mexico,City Break,4042413,3.3
+L0400,Mexico,Skiing,4054423,3.0
+L0401,Argentina,Historical,181701,2.1
+L0402,China,Nature,195259,3.7
+L0403,Mexico,Cultural,4296512,4.3
+L0404,Egypt,Nature,1949015,3.5
+L0405,Greece,Beach,279113,4.5
+L0406,Turkey,Historical,2149286,2.4
+L0407,Canada,Adventure,4949816,4.3
+L0408,South Africa,Cultural,447502,1.1
+L0409,India,Beach,321753,4.3
+L0410,Japan,Historical,167717,3.6
+L0411,India,Skiing,3625274,2.3
+L0412,Canada,Cultural,3006585,1.1
+L0413,Italy,City Break,2330064,4.3
+L0414,New Zealand,Beach,4334302,3.2
+L0415,China,Adventure,1442432,1.9
+L0416,Brazil,Skiing,4486595,3.2
+L0417,Italy,Historical,3745423,2.8
+L0418,New Zealand,Skiing,1934571,3.1
+L0419,India,Cultural,3361223,3.4
+L0420,Australia,Historical,727297,4.1
+L0421,New Zealand,Skiing,434583,2.7
+L0422,South Africa,City Break,3012829,4.0
+L0423,USA,Nature,4369164,1.1
+L0424,South Africa,Adventure,313094,2.9
+L0425,Australia,Historical,111384,1.2
+L0426,South Africa,City Break,751583,2.8
+L0427,New Zealand,Beach,1107822,3.6
+L0428,Peru,Cultural,2252103,2.5
+L0429,Greece,Historical,404098,1.2
+L0430,India,Cultural,1676525,3.1
+L0431,Spain,Cultural,3394812,2.1
+L0432,Canada,Nature,968580,4.4
+L0433,Mexico,Beach,4427513,1.3
+L0434,Argentina,Nature,4151751,3.4
+L0435,USA,Skiing,4034134,3.2
+L0436,France,Cultural,2464503,3.8
+L0437,China,City Break,2186666,3.2
+L0438,Italy,Historical,2570170,3.4
+L0439,Egypt,Nature,488236,4.4
+L0440,USA,Cultural,1840445,3.6
+L0441,Germany,Skiing,1008036,1.8
+L0442,India,City Break,3642769,1.6
+L0443,Egypt,Historical,3963609,2.4
+L0444,China,Cultural,2206997,2.6
+L0445,Canada,Beach,3822270,4.6
+L0446,Mexico,Cultural,1827408,3.6
+L0447,Japan,Nature,4498708,1.5
+L0448,Japan,City Break,2058082,4.8
+L0449,India,Historical,2113621,4.6
+L0450,Spain,Cultural,2595269,4.8
+L0451,Thailand,Adventure,2183851,1.4
+L0452,Peru,Cultural,3737185,4.6
+L0453,Italy,City Break,2805491,5.0
+L0454,Turkey,Nature,2265137,4.1
+L0455,Germany,Historical,1478037,3.6
+L0456,Greece,Cultural,2743265,2.9
+L0457,Australia,Beach,2617732,1.9
+L0458,France,City Break,2243794,1.9
+L0459,Peru,Nature,4045918,1.2
+L0460,Brazil,Adventure,2442684,3.7
+L0461,Brazil,Beach,4627319,4.4
+L0462,Australia,Beach,1124439,4.5
+L0463,China,City Break,3547877,2.2
+L0464,Peru,Adventure,3680170,4.5
+L0465,China,Nature,882577,4.0
+L0466,Turkey,Historical,1697781,3.8
+L0467,Canada,Adventure,677013,3.1
+L0468,Brazil,Skiing,2413345,2.7
+L0469,Germany,Historical,698654,1.0
+L0470,Italy,Skiing,2662344,2.0
+L0471,Germany,Adventure,3021623,2.2
+L0472,Canada,Historical,3836103,4.5
+L0473,Turkey,Adventure,3809675,2.0
+L0474,Mexico,Adventure,4431721,4.5
+L0475,Australia,Adventure,1589857,4.0
+L0476,Mexico,City Break,4299130,4.9
+L0477,France,Beach,2859750,3.2
+L0478,Thailand,Cultural,647205,3.8
+L0479,USA,Historical,867242,4.8
+L0480,Egypt,City Break,336988,1.8
+L0481,China,Adventure,1683165,4.2
+L0482,Australia,Historical,3510617,1.2
+L0483,Mexico,Beach,1770670,1.5
+L0484,Thailand,City Break,587866,3.6
+L0485,South Africa,Nature,707966,1.9
+L0486,Italy,Beach,1089594,2.9
+L0487,Egypt,Nature,3471878,2.0
+L0488,France,City Break,1383786,4.3
+L0489,Mexico,Skiing,4183846,1.3
+L0490,Peru,Skiing,934615,3.2
+L0491,South Africa,Nature,2440145,2.9
+L0492,Mexico,Adventure,3367665,1.6
+L0493,Canada,City Break,1295206,1.5
+L0494,Spain,Skiing,1742165,1.3
+L0495,Thailand,Nature,2858679,4.5
+L0496,Italy,Cultural,615731,2.6
+L0497,Thailand,Adventure,4589406,1.7
+L0498,Australia,Beach,149403,3.1
+L0499,Brazil,Cultural,2686055,4.6
+L0500,China,Nature,4865350,2.0
+L0501,Brazil,Historical,4475286,4.6
+L0502,India,Cultural,3011777,4.6
+L0503,Japan,City Break,4752677,1.4
+L0504,Germany,Historical,2471466,3.8
+L0505,France,Cultural,2222939,4.5
+L0506,Japan,Historical,780752,2.4
+L0507,Canada,Beach,3299471,4.7
+L0508,South Africa,Beach,4756516,4.5
+L0509,India,City Break,846503,1.4
+L0510,Argentina,Nature,4065814,4.9
+L0511,China,Beach,1995504,2.8
+L0512,China,Cultural,4738836,3.7
+L0513,Australia,Beach,1926754,1.9
+L0514,Turkey,Beach,3678659,3.5
+L0515,Peru,Cultural,1323767,4.5
+L0516,USA,City Break,684383,3.5
+L0517,Argentina,City Break,283874,1.1
+L0518,Australia,Skiing,4744287,4.1
+L0519,Australia,Skiing,2012774,2.5
+L0520,New Zealand,Adventure,3635844,2.3
+L0521,Italy,City Break,2827799,4.2
+L0522,USA,Beach,1226902,2.2
+L0523,South Africa,Historical,1288957,3.1
+L0524,India,Skiing,3826749,1.9
+L0525,India,Beach,3108491,1.1
+L0526,Spain,Beach,3880997,1.4
+L0527,Peru,Cultural,1535010,3.5
+L0528,India,Historical,3947935,3.8
+L0529,USA,Adventure,2296566,4.1
+L0530,China,Cultural,3448022,4.5
+L0531,China,Nature,3952191,2.7
+L0532,India,Cultural,275923,2.4
+L0533,Mexico,Nature,351373,3.1
+L0534,India,Cultural,487175,3.1
+L0535,Germany,Beach,3922637,4.1
+L0536,Australia,Skiing,3179649,2.7
+L0537,France,Nature,4163085,3.8
+L0538,Peru,Adventure,2701529,2.1
+L0539,China,Nature,3582987,4.4
+L0540,Brazil,City Break,1661056,3.0
+L0541,Egypt,Historical,101102,3.0
+L0542,Germany,City Break,3260283,3.8
+L0543,China,Skiing,3059883,1.9
+L0544,Mexico,Nature,2712252,1.2
+L0545,China,Nature,234837,3.0
+L0546,Japan,Nature,2252113,5.0
+L0547,Peru,Cultural,261220,4.8
+L0548,Germany,Nature,4958931,1.2
+L0549,Turkey,Adventure,1578270,4.8
+L0550,Canada,City Break,2053100,2.4
+L0551,Peru,City Break,3583380,3.9
+L0552,Greece,Cultural,2174351,3.6
+L0553,Greece,Beach,4578273,2.3
+L0554,Greece,Cultural,2131458,1.9
+L0555,China,City Break,535302,4.8
+L0556,Brazil,Adventure,809794,5.0
+L0557,Greece,Beach,1558088,1.3
+L0558,China,Beach,722848,4.6
+L0559,Italy,Skiing,4112216,2.6
+L0560,Mexico,Beach,1154048,2.3
+L0561,Argentina,Nature,1779439,4.4
+L0562,Thailand,Nature,3292715,4.2
+L0563,Brazil,Nature,3300574,1.7
+L0564,Greece,Nature,3195080,4.8
+L0565,India,Beach,1328250,3.7
+L0566,Spain,Skiing,1497297,3.1
+L0567,India,Cultural,2384121,1.5
+L0568,France,Cultural,737980,2.0
+L0569,Japan,Beach,2545654,3.8
+L0570,Greece,Nature,3963209,2.6
+L0571,USA,Adventure,4501979,4.0
+L0572,Germany,Adventure,851439,2.6
+L0573,Thailand,Skiing,1150823,1.3
+L0574,Turkey,Beach,3192277,3.4
+L0575,Australia,Cultural,1075999,5.0
+L0576,Canada,Nature,3845401,2.8
+L0577,Australia,Cultural,3647280,5.0
+L0578,Canada,Adventure,969702,3.9
+L0579,South Africa,Cultural,4992770,1.6
+L0580,Egypt,Nature,3883176,3.7
+L0581,Greece,Skiing,1113621,4.0
+L0582,Spain,Beach,1109697,2.9
+L0583,Spain,Nature,814474,3.3
+L0584,Spain,Adventure,1788343,3.0
+L0585,Spain,Beach,985102,2.1
+L0586,Egypt,Cultural,4870508,1.3
+L0587,Thailand,Historical,1750976,4.6
+L0588,China,Beach,496828,1.9
+L0589,Greece,City Break,2301071,1.9
+L0590,Peru,Nature,4308910,4.2
+L0591,India,Historical,622486,3.1
+L0592,Turkey,City Break,1296339,1.5
+L0593,Greece,Historical,1077406,2.9
+L0594,France,City Break,3482287,3.2
+L0595,Brazil,Beach,2651870,4.4
+L0596,India,Skiing,925010,2.7
+L0597,Japan,City Break,972319,4.8
+L0598,Peru,Beach,3603375,2.1
+L0599,Japan,Cultural,3618970,2.5
+L0600,Turkey,Cultural,963395,3.1
+L0601,Turkey,Skiing,1213339,1.9
+L0602,Peru,Cultural,4352307,3.5
+L0603,India,Skiing,4089652,2.7
+L0604,Peru,Cultural,2070686,3.5
+L0605,Egypt,Cultural,847256,3.4
+L0606,Spain,Beach,4892947,4.2
+L0607,China,City Break,3906392,1.8
+L0608,Thailand,Beach,1046085,2.3
+L0609,Germany,Cultural,2964518,4.4
+L0610,Egypt,Nature,1709555,3.1
+L0611,USA,City Break,1141914,1.1
+L0612,Brazil,Adventure,1471737,1.4
+L0613,Brazil,Nature,4227708,4.0
+L0614,Thailand,Historical,689165,4.2
+L0615,China,Adventure,894139,4.7
+L0616,USA,Nature,4348250,3.5
+L0617,Brazil,City Break,3524894,2.0
+L0618,Australia,City Break,4905747,1.1
+L0619,Australia,City Break,911697,4.8
+L0620,Japan,City Break,2526237,1.8
+L0621,France,Adventure,1211134,4.2
+L0622,Canada,City Break,1531579,1.1
+L0623,Brazil,Historical,692201,2.7
+L0624,Argentina,Skiing,4033212,2.1
+L0625,Greece,City Break,3053730,1.1
+L0626,New Zealand,Beach,997092,2.8
+L0627,Spain,Adventure,2896378,3.9
+L0628,Argentina,Adventure,3571209,3.5
+L0629,France,Adventure,2007551,4.5
+L0630,Germany,City Break,1540969,2.4
+L0631,Canada,Cultural,561066,2.7
+L0632,New Zealand,City Break,285065,3.9
+L0633,New Zealand,Historical,359246,4.4
+L0634,Mexico,Skiing,1610315,3.7
+L0635,Mexico,Skiing,3717526,4.7
+L0636,Mexico,Beach,1704103,4.2
+L0637,Argentina,Beach,1572169,3.0
+L0638,India,Beach,1651356,2.6
+L0639,Thailand,Beach,3313862,2.3
+L0640,Canada,Cultural,3072586,1.9
+L0641,New Zealand,Skiing,531136,4.7
+L0642,Egypt,Cultural,4768693,1.7
+L0643,China,Cultural,4584426,3.8
+L0644,New Zealand,Cultural,3406778,1.0
+L0645,Greece,Beach,4142046,1.4
+L0646,South Africa,Skiing,4118585,1.4
+L0647,Canada,Beach,4787340,1.5
+L0648,Brazil,Historical,4612196,4.5
+L0649,Italy,Historical,4952322,1.9
+L0650,New Zealand,Cultural,2839557,3.7
+L0651,India,Historical,4210973,2.5
+L0652,Turkey,City Break,1414867,2.6
+L0653,Australia,Beach,1349028,1.5
+L0654,Thailand,Nature,381780,1.1
+L0655,Peru,Beach,3847476,3.8
+L0656,Egypt,Beach,194891,2.4
+L0657,Greece,Historical,4190873,2.0
+L0658,Mexico,Historical,4914490,4.0
+L0659,Turkey,Beach,2112302,2.4
+L0660,France,Adventure,4973556,3.7
+L0661,Turkey,City Break,4173205,2.9
+L0662,Egypt,Historical,4060695,4.0
+L0663,Mexico,Skiing,4001650,2.4
+L0664,Brazil,Cultural,1744897,1.0
+L0665,Spain,Historical,217560,1.3
+L0666,India,City Break,3900031,1.1
+L0667,USA,Adventure,4602527,3.8
+L0668,Germany,Nature,2048896,2.5
+L0669,China,Historical,1755187,3.7
+L0670,Greece,Adventure,4264787,4.3
+L0671,Brazil,City Break,602202,1.1
+L0672,Turkey,Nature,960131,2.5
+L0673,New Zealand,Skiing,110225,1.9
+L0674,France,Skiing,3977300,3.6
+L0675,Australia,Skiing,1285074,2.3
+L0676,Thailand,Adventure,975967,3.4
+L0677,India,Beach,1550739,3.0
+L0678,Japan,City Break,139100,2.3
+L0679,Peru,Nature,2087960,1.8
+L0680,Australia,City Break,3161616,1.3
+L0681,Argentina,Historical,663220,4.0
+L0682,Canada,Cultural,4104461,1.4
+L0683,Egypt,Nature,3124146,2.1
+L0684,Egypt,Beach,3936141,4.6
+L0685,Peru,Historical,3055689,2.2
+L0686,China,City Break,758181,3.2
+L0687,France,Skiing,4521255,2.9
+L0688,Turkey,City Break,2830807,4.4
+L0689,Canada,Nature,4735621,1.7
+L0690,New Zealand,Historical,2288937,2.2
+L0691,Egypt,City Break,4345589,1.4
+L0692,Greece,Cultural,4653971,1.3
+L0693,Turkey,Cultural,4513911,2.0
+L0694,Australia,Cultural,3732117,2.7
+L0695,Turkey,City Break,2928220,1.7
+L0696,Thailand,Cultural,4577062,2.9
+L0697,Argentina,City Break,245340,3.5
+L0698,Canada,City Break,1781686,3.8
+L0699,New Zealand,City Break,2033422,1.3
+L0700,Egypt,Cultural,4937248,1.4
+L0701,Canada,Beach,1929937,3.1
+L0702,Canada,Cultural,1589694,4.2
+L0703,Canada,Beach,3249113,3.0
+L0704,Turkey,Nature,2662406,4.2
+L0705,Turkey,City Break,4857195,2.2
+L0706,USA,Historical,2241839,3.0
+L0707,Japan,Cultural,3272731,1.9
+L0708,South Africa,Beach,947072,3.0
+L0709,Mexico,Beach,4404353,3.9
+L0710,Japan,Beach,2787894,3.6
+L0711,Greece,Historical,4029397,2.1
+L0712,India,Cultural,3119160,1.4
+L0713,Brazil,Skiing,3548070,1.9
+L0714,New Zealand,Beach,3429464,2.1
+L0715,South Africa,City Break,4040083,2.3
+L0716,Egypt,Skiing,3411410,2.3
+L0717,France,Historical,1271253,4.9
+L0718,France,Cultural,3362911,2.9
+L0719,France,Beach,1740600,4.0
+L0720,Egypt,City Break,4984865,4.5
+L0721,New Zealand,Cultural,936890,3.4
+L0722,Greece,Cultural,365330,4.6
+L0723,China,Historical,3649758,1.7
+L0724,Italy,City Break,1371497,2.6
+L0725,Germany,Beach,1529206,1.7
+L0726,Argentina,Adventure,825262,2.3
+L0727,Mexico,Skiing,793406,2.3
+L0728,Australia,Skiing,4905826,4.0
+L0729,Argentina,Beach,1330220,2.0
+L0730,China,Cultural,1693461,4.3
+L0731,Peru,Beach,3543582,3.7
+L0732,Egypt,Beach,4194155,2.2
+L0733,France,Skiing,2504894,4.9
+L0734,Japan,Cultural,1194939,2.4
+L0735,Turkey,Adventure,2751993,2.3
+L0736,USA,Cultural,2345127,2.2
+L0737,Spain,Skiing,2890413,4.8
+L0738,Brazil,Skiing,346199,3.2
+L0739,South Africa,Historical,4959340,4.9
+L0740,Thailand,Adventure,1821886,4.9
+L0741,China,Historical,4070673,4.5
+L0742,China,Cultural,1462971,3.7
+L0743,Greece,Adventure,3397970,2.5
+L0744,Australia,Historical,4234201,2.8
+L0745,Egypt,Skiing,2094027,1.3
+L0746,India,City Break,3063130,2.3
+L0747,France,Skiing,2714457,1.5
+L0748,Argentina,Skiing,3199561,4.3
+L0749,China,Cultural,1265911,4.3
+L0750,Mexico,Skiing,4080017,3.7
+L0751,Germany,Historical,4709664,4.3
+L0752,Japan,Skiing,4019245,2.3
+L0753,Greece,Cultural,178919,3.5
+L0754,Turkey,Adventure,3301943,4.5
+L0755,India,Cultural,744131,4.4
+L0756,Australia,Nature,126353,1.8
+L0757,Australia,Cultural,4765336,2.8
+L0758,Japan,Adventure,4824838,1.2
+L0759,South Africa,Skiing,1930090,2.7
+L0760,Brazil,Skiing,2138821,3.3
+L0761,Spain,Cultural,4293394,1.5
+L0762,Canada,Historical,162047,4.1
+L0763,Spain,Nature,4042559,2.5
+L0764,Thailand,Nature,3625494,3.3
+L0765,Egypt,Adventure,4177988,4.8
+L0766,India,City Break,4278424,2.4
+L0767,South Africa,Beach,422360,4.1
+L0768,Canada,Cultural,3724647,3.3
+L0769,France,City Break,4888164,3.4
+L0770,Mexico,Beach,260117,3.5
+L0771,USA,Nature,2398294,1.1
+L0772,Argentina,Beach,4331430,2.3
+L0773,China,Adventure,875567,4.7
+L0774,Spain,Beach,2311883,1.2
+L0775,Greece,Skiing,165606,3.4
+L0776,India,Skiing,445103,3.5
+L0777,Canada,Historical,460158,3.7
+L0778,Argentina,Cultural,1780524,4.5
+L0779,India,Nature,4481967,3.4
+L0780,Turkey,Skiing,914060,3.8
+L0781,India,Adventure,2968876,3.9
+L0782,Egypt,City Break,2278593,4.6
+L0783,China,Historical,4581859,2.6
+L0784,Australia,City Break,3017228,4.9
+L0785,Spain,Beach,3299244,1.5
+L0786,New Zealand,Adventure,1851421,3.6
+L0787,USA,Historical,363623,1.6
+L0788,Brazil,City Break,2125965,2.2
+L0789,Mexico,Beach,1542949,2.7
+L0790,Thailand,Adventure,852212,4.6
+L0791,Egypt,Cultural,293745,3.7
+L0792,Brazil,Nature,3147794,1.9
+L0793,Peru,Beach,3327169,4.6
+L0794,Germany,Cultural,3798881,1.4
+L0795,Germany,City Break,635946,2.2
+L0796,Italy,Beach,1034699,1.8
+L0797,Turkey,Historical,4207265,1.6
+L0798,China,City Break,4411798,4.9
+L0799,South Africa,Adventure,1846803,3.8
+L0800,India,Cultural,629771,3.0
+L0801,Greece,Skiing,1596353,2.5
+L0802,China,Historical,545383,2.1
+L0803,Germany,City Break,3497212,1.9
+L0804,Germany,Adventure,623622,4.3
+L0805,Argentina,Cultural,4271084,4.5
+L0806,Japan,Historical,1871520,1.8
+L0807,Argentina,Adventure,2172091,2.1
+L0808,Spain,Cultural,1236386,2.6
+L0809,Peru,Adventure,1591391,2.6
+L0810,Turkey,Cultural,1559139,2.5
+L0811,Australia,City Break,3017417,2.2
+L0812,Peru,Skiing,1117281,1.6
+L0813,Italy,Nature,762947,2.5
+L0814,France,Adventure,1021879,3.3
+L0815,Argentina,Historical,681050,1.4
+L0816,Peru,Beach,2534621,1.4
+L0817,South Africa,Nature,4260511,4.1
+L0818,USA,City Break,4405387,3.0
+L0819,Japan,Cultural,1502965,1.7
+L0820,New Zealand,Adventure,3676789,4.6
+L0821,Greece,Cultural,3842085,2.3
+L0822,France,Adventure,3308338,4.4
+L0823,USA,Cultural,4209104,5.0
+L0824,Mexico,City Break,3533441,4.0
+L0825,Brazil,City Break,4803453,1.0
+L0826,Spain,Nature,2871340,1.7
+L0827,South Africa,City Break,4405934,4.1
+L0828,Italy,City Break,1279638,2.3
+L0829,Peru,Skiing,3998445,4.2
+L0830,Peru,Adventure,1727463,3.6
+L0831,Egypt,Historical,1180461,2.2
+L0832,Peru,City Break,4906605,1.1
+L0833,Germany,Nature,1823885,1.5
+L0834,Egypt,Nature,237732,1.5
+L0835,Turkey,Beach,4169529,3.4
+L0836,Mexico,Historical,573220,1.4
+L0837,Germany,City Break,2991725,2.1
+L0838,South Africa,Adventure,3198670,4.1
+L0839,India,Adventure,3397024,3.4
+L0840,Australia,Nature,2973651,4.1
+L0841,Argentina,Nature,1546080,4.9
+L0842,Argentina,City Break,2951801,4.5
+L0843,South Africa,Nature,4159351,2.9
+L0844,China,Cultural,1453998,3.2
+L0845,New Zealand,Beach,1003975,3.0
+L0846,USA,Adventure,628163,2.5
+L0847,India,Historical,2715567,3.1
+L0848,Egypt,Skiing,3355156,1.9
+L0849,China,Cultural,3857209,2.9
+L0850,China,Beach,1979605,4.0
+L0851,France,Beach,3053907,1.0
+L0852,India,Historical,3355013,2.3
+L0853,USA,Beach,413635,2.6
+L0854,South Africa,Cultural,2089970,1.6
+L0855,Japan,Historical,3621504,3.4
+L0856,Canada,Adventure,4571924,3.8
+L0857,Brazil,Beach,306567,2.9
+L0858,Mexico,Skiing,3566650,3.1
+L0859,Egypt,Historical,4488316,4.0
+L0860,Canada,Adventure,3478125,1.1
+L0861,Greece,City Break,136126,3.5
+L0862,Germany,Historical,2597700,1.8
+L0863,USA,Cultural,3724940,2.5
+L0864,Japan,Historical,1040767,4.4
+L0865,Egypt,Beach,4920058,2.4
+L0866,Canada,Historical,3383491,1.7
+L0867,Italy,Nature,3264433,1.2
+L0868,Brazil,City Break,3756369,4.9
+L0869,France,Nature,2535091,2.2
+L0870,Germany,Adventure,2901576,2.7
+L0871,China,Skiing,1902141,4.7
+L0872,Brazil,Skiing,3657950,1.5
+L0873,Turkey,Historical,1896335,4.8
+L0874,Germany,Skiing,240673,2.2
+L0875,Canada,Cultural,4454098,1.5
+L0876,Argentina,Historical,2687227,1.1
+L0877,China,Cultural,4588612,1.7
+L0878,Argentina,Cultural,449950,3.9
+L0879,Mexico,City Break,566652,3.7
+L0880,Thailand,Nature,4105624,2.9
+L0881,South Africa,Skiing,476361,2.2
+L0882,USA,Historical,1960020,3.9
+L0883,Canada,Skiing,2490465,1.2
+L0884,China,Adventure,3856468,3.8
+L0885,Italy,Skiing,3286790,2.3
+L0886,Italy,Cultural,1260202,3.4
+L0887,Italy,Nature,4264844,4.9
+L0888,China,Skiing,2792356,4.7
+L0889,France,Nature,4734968,1.2
+L0890,Mexico,City Break,3648707,1.1
+L0891,Spain,Nature,2683271,1.9
+L0892,Mexico,City Break,1310125,4.6
+L0893,Japan,Beach,1905821,1.4
+L0894,Australia,Beach,337046,1.8
+L0895,Canada,Adventure,2523160,4.0
+L0896,Argentina,City Break,4402052,3.8
+L0897,Egypt,Nature,1314513,3.6
+L0898,Thailand,Adventure,431125,2.8
+L0899,Turkey,City Break,2101489,2.6
+L0900,Greece,City Break,3000536,3.4
+L0901,Australia,Nature,2032803,3.5
+L0902,Peru,Cultural,1497841,3.9
+L0903,USA,Beach,4387710,4.9
+L0904,India,Historical,882080,1.8
+L0905,Germany,Nature,4046564,3.0
+L0906,South Africa,City Break,2405491,4.2
+L0907,Mexico,Cultural,442182,2.4
+L0908,Canada,Historical,298462,3.6
+L0909,Egypt,Adventure,988826,4.1
+L0910,Australia,Adventure,4217539,3.1
+L0911,USA,City Break,4339604,3.7
+L0912,China,City Break,2313030,4.5
+L0913,Germany,Skiing,4094716,2.8
+L0914,Spain,City Break,3432484,2.5
+L0915,Thailand,Nature,3081112,4.8
+L0916,Japan,Nature,2241078,4.8
+L0917,Italy,Beach,4264059,1.0
+L0918,USA,Historical,4821046,2.8
+L0919,Brazil,Beach,3791205,2.5
+L0920,Turkey,City Break,4054163,4.2
+L0921,India,Adventure,2438074,1.2
+L0922,India,Beach,464102,2.5
+L0923,Turkey,Historical,1449021,4.9
+L0924,Italy,Skiing,2692687,2.8
+L0925,USA,Beach,4197700,1.5
+L0926,India,Historical,2564405,1.7
+L0927,Spain,Cultural,1635141,1.9
+L0928,Thailand,Cultural,1991570,4.9
+L0929,Turkey,Beach,3500264,3.9
+L0930,Brazil,Beach,1541804,1.7
+L0931,Canada,Historical,474130,3.2
+L0932,Germany,City Break,1010284,2.1
+L0933,New Zealand,Skiing,320098,3.2
+L0934,New Zealand,Skiing,2470328,3.0
+L0935,Peru,Cultural,1305072,5.0
+L0936,Egypt,Skiing,3445164,2.3
+L0937,Argentina,Beach,2308919,2.0
+L0938,Brazil,Nature,1625466,4.0
+L0939,Germany,Adventure,1300160,3.4
+L0940,Italy,City Break,2117036,3.1
+L0941,South Africa,Beach,2795144,2.7
+L0942,Canada,Cultural,4338957,1.2
+L0943,Thailand,Nature,935848,1.5
+L0944,India,Beach,622274,4.9
+L0945,Egypt,Historical,908179,4.3
+L0946,New Zealand,Nature,4601767,1.4
+L0947,France,Skiing,1284956,3.5
+L0948,Peru,Nature,1972889,1.2
+L0949,Argentina,Historical,317547,4.7
+L0950,South Africa,Cultural,1439278,4.0
+L0951,Spain,City Break,1505249,5.0
+L0952,Germany,Adventure,2178024,4.9
+L0953,India,Historical,2747138,2.4
+L0954,China,City Break,339500,1.9
+L0955,Spain,Beach,101280,2.7
+L0956,Canada,Beach,4830967,4.3
+L0957,Brazil,Nature,3039199,2.2
+L0958,Argentina,Nature,1118703,1.5
+L0959,China,City Break,2416556,3.2
+L0960,Mexico,Beach,1216638,3.3
+L0961,South Africa,Skiing,4562630,2.3
+L0962,Greece,City Break,399878,4.9
+L0963,Peru,Nature,3909687,1.7
+L0964,Thailand,Historical,4955530,1.2
+L0965,Peru,Beach,1705953,3.4
+L0966,Egypt,Historical,2182158,1.7
+L0967,India,Cultural,4365652,2.6
+L0968,Turkey,Beach,659536,4.4
+L0969,South Africa,Adventure,3169368,2.2
+L0970,France,Nature,1266786,3.2
+L0971,South Africa,Skiing,2018293,3.0
+L0972,South Africa,Skiing,2475691,2.3
+L0973,Australia,Beach,2056397,3.4
+L0974,Brazil,City Break,1607093,2.3
+L0975,Italy,Nature,2380695,1.1
+L0976,India,Beach,4270259,3.7
+L0977,Turkey,Beach,2387848,4.0
+L0978,France,Historical,4813891,1.5
+L0979,Greece,Historical,1752585,5.0
+L0980,Argentina,City Break,4483126,4.2
+L0981,South Africa,Historical,2416930,3.8
+L0982,Egypt,Skiing,1785436,4.6
+L0983,Egypt,Cultural,554790,4.7
+L0984,France,City Break,429022,3.4
+L0985,Mexico,Beach,2674397,2.5
+L0986,Turkey,Beach,4953331,1.6
+L0987,Thailand,Cultural,1495465,1.3
+L0988,China,Adventure,3726257,4.1
+L0989,Italy,Skiing,4809573,4.1
+L0990,Turkey,Nature,707064,1.2
+L0991,USA,Cultural,1462023,3.1
+L0992,Germany,Cultural,1427133,3.6
+L0993,Germany,Skiing,2599099,2.8
+L0994,Egypt,Adventure,244440,2.8
+L0995,Argentina,City Break,3857560,3.3
+L0996,Egypt,Cultural,1591467,2.3
+L0997,Mexico,Historical,2672239,3.1
+L0998,Spain,Cultural,4432964,4.6
+L0999,Japan,Cultural,4869970,2.6
+L1000,USA,Nature,305570,2.8

@@ -1,0 +1,1001 @@
+customer_id,name,email,age,city,join_date
+1,Customer_1,customer_1@example.com,56,Chicago,2022-08-04
+2,Customer_2,customer_2@example.com,69,Chicago,2022-09-08
+3,Customer_3,customer_3@example.com,46,New York,2022-05-06
+4,Customer_4,customer_4@example.com,32,Phoenix,2022-08-05
+5,Customer_5,customer_5@example.com,60,Houston,2022-11-02
+6,Customer_6,customer_6@example.com,25,Los Angeles,2022-07-04
+7,Customer_7,customer_7@example.com,38,New York,2022-02-08
+8,Customer_8,customer_8@example.com,56,New York,2022-08-11
+9,Customer_9,customer_9@example.com,36,Los Angeles,2022-07-03
+10,Customer_10,customer_10@example.com,40,Houston,2023-05-10
+11,Customer_11,customer_11@example.com,28,New York,2023-03-03
+12,Customer_12,customer_12@example.com,28,New York,2022-06-27
+13,Customer_13,customer_13@example.com,41,Phoenix,2023-03-04
+14,Customer_14,customer_14@example.com,53,Houston,2022-10-21
+15,Customer_15,customer_15@example.com,57,New York,2022-05-31
+16,Customer_16,customer_16@example.com,41,Houston,2023-01-19
+17,Customer_17,customer_17@example.com,20,Los Angeles,2023-09-30
+18,Customer_18,customer_18@example.com,39,Chicago,2022-11-04
+19,Customer_19,customer_19@example.com,19,New York,2022-12-02
+20,Customer_20,customer_20@example.com,41,Phoenix,2023-01-10
+21,Customer_21,customer_21@example.com,61,Los Angeles,2022-01-08
+22,Customer_22,customer_22@example.com,47,Houston,2022-12-07
+23,Customer_23,customer_23@example.com,55,Los Angeles,2022-05-09
+24,Customer_24,customer_24@example.com,19,New York,2023-10-31
+25,Customer_25,customer_25@example.com,38,Houston,2022-12-18
+26,Customer_26,customer_26@example.com,50,Chicago,2022-12-24
+27,Customer_27,customer_27@example.com,29,Los Angeles,2023-06-01
+28,Customer_28,customer_28@example.com,39,New York,2023-05-10
+29,Customer_29,customer_29@example.com,61,Phoenix,2022-03-27
+30,Customer_30,customer_30@example.com,42,Houston,2022-06-24
+31,Customer_31,customer_31@example.com,66,Los Angeles,2022-07-12
+32,Customer_32,customer_32@example.com,44,Los Angeles,2022-11-07
+33,Customer_33,customer_33@example.com,59,Chicago,2022-04-29
+34,Customer_34,customer_34@example.com,45,Chicago,2022-08-06
+35,Customer_35,customer_35@example.com,33,Phoenix,2023-03-03
+36,Customer_36,customer_36@example.com,32,Phoenix,2023-02-18
+37,Customer_37,customer_37@example.com,64,New York,2022-04-24
+38,Customer_38,customer_38@example.com,68,New York,2022-05-25
+39,Customer_39,customer_39@example.com,61,Phoenix,2023-06-22
+40,Customer_40,customer_40@example.com,69,Phoenix,2023-10-10
+41,Customer_41,customer_41@example.com,20,Houston,2022-10-30
+42,Customer_42,customer_42@example.com,54,Chicago,2023-08-11
+43,Customer_43,customer_43@example.com,68,New York,2022-12-11
+44,Customer_44,customer_44@example.com,24,Chicago,2022-01-01
+45,Customer_45,customer_45@example.com,38,Chicago,2022-05-27
+46,Customer_46,customer_46@example.com,26,Phoenix,2022-10-14
+47,Customer_47,customer_47@example.com,56,Houston,2023-10-16
+48,Customer_48,customer_48@example.com,35,Los Angeles,2022-02-22
+49,Customer_49,customer_49@example.com,21,Houston,2022-10-31
+50,Customer_50,customer_50@example.com,42,Houston,2022-03-10
+51,Customer_51,customer_51@example.com,31,Chicago,2022-12-27
+52,Customer_52,customer_52@example.com,67,Houston,2023-08-25
+53,Customer_53,customer_53@example.com,26,New York,2022-08-08
+54,Customer_54,customer_54@example.com,43,Chicago,2023-12-05
+55,Customer_55,customer_55@example.com,19,New York,2023-07-29
+56,Customer_56,customer_56@example.com,37,Los Angeles,2023-08-08
+57,Customer_57,customer_57@example.com,45,Chicago,2022-06-10
+58,Customer_58,customer_58@example.com,64,Los Angeles,2023-11-12
+59,Customer_59,customer_59@example.com,24,Chicago,2022-03-30
+60,Customer_60,customer_60@example.com,61,Phoenix,2023-11-19
+61,Customer_61,customer_61@example.com,25,Houston,2023-08-08
+62,Customer_62,customer_62@example.com,64,Phoenix,2023-08-12
+63,Customer_63,customer_63@example.com,52,Los Angeles,2022-06-08
+64,Customer_64,customer_64@example.com,31,Houston,2023-05-04
+65,Customer_65,customer_65@example.com,34,Chicago,2022-11-20
+66,Customer_66,customer_66@example.com,53,Houston,2023-09-02
+67,Customer_67,customer_67@example.com,67,New York,2023-01-16
+68,Customer_68,customer_68@example.com,57,Houston,2022-04-12
+69,Customer_69,customer_69@example.com,21,New York,2023-05-09
+70,Customer_70,customer_70@example.com,19,Houston,2023-10-06
+71,Customer_71,customer_71@example.com,23,New York,2023-09-06
+72,Customer_72,customer_72@example.com,59,Los Angeles,2022-01-19
+73,Customer_73,customer_73@example.com,21,Phoenix,2023-03-30
+74,Customer_74,customer_74@example.com,46,Chicago,2023-04-27
+75,Customer_75,customer_75@example.com,35,Houston,2023-08-17
+76,Customer_76,customer_76@example.com,43,Phoenix,2023-02-01
+77,Customer_77,customer_77@example.com,61,Chicago,2022-10-06
+78,Customer_78,customer_78@example.com,51,Chicago,2022-12-31
+79,Customer_79,customer_79@example.com,27,New York,2022-11-27
+80,Customer_80,customer_80@example.com,53,Los Angeles,2023-10-03
+81,Customer_81,customer_81@example.com,31,Los Angeles,2022-12-10
+82,Customer_82,customer_82@example.com,48,Phoenix,2023-03-31
+83,Customer_83,customer_83@example.com,65,Los Angeles,2023-08-24
+84,Customer_84,customer_84@example.com,32,Houston,2023-12-26
+85,Customer_85,customer_85@example.com,25,Los Angeles,2023-10-17
+86,Customer_86,customer_86@example.com,31,Phoenix,2022-03-06
+87,Customer_87,customer_87@example.com,40,Los Angeles,2022-03-17
+88,Customer_88,customer_88@example.com,57,Houston,2023-12-12
+89,Customer_89,customer_89@example.com,38,New York,2022-05-23
+90,Customer_90,customer_90@example.com,33,Phoenix,2023-08-28
+91,Customer_91,customer_91@example.com,62,New York,2023-04-18
+92,Customer_92,customer_92@example.com,35,New York,2023-02-21
+93,Customer_93,customer_93@example.com,64,New York,2022-11-01
+94,Customer_94,customer_94@example.com,41,Chicago,2023-05-12
+95,Customer_95,customer_95@example.com,43,Chicago,2022-10-18
+96,Customer_96,customer_96@example.com,42,New York,2022-04-12
+97,Customer_97,customer_97@example.com,62,Phoenix,2022-09-24
+98,Customer_98,customer_98@example.com,58,Houston,2023-09-14
+99,Customer_99,customer_99@example.com,46,Houston,2022-01-03
+100,Customer_100,customer_100@example.com,32,Los Angeles,2022-03-26
+101,Customer_101,customer_101@example.com,62,Phoenix,2022-11-24
+102,Customer_102,customer_102@example.com,18,Chicago,2023-03-26
+103,Customer_103,customer_103@example.com,42,New York,2023-03-30
+104,Customer_104,customer_104@example.com,24,Los Angeles,2023-09-21
+105,Customer_105,customer_105@example.com,26,Houston,2022-08-09
+106,Customer_106,customer_106@example.com,41,Chicago,2022-06-03
+107,Customer_107,customer_107@example.com,18,Chicago,2023-10-27
+108,Customer_108,customer_108@example.com,61,New York,2022-01-12
+109,Customer_109,customer_109@example.com,25,Houston,2022-05-13
+110,Customer_110,customer_110@example.com,41,Phoenix,2022-10-31
+111,Customer_111,customer_111@example.com,28,Chicago,2022-10-20
+112,Customer_112,customer_112@example.com,68,New York,2022-10-27
+113,Customer_113,customer_113@example.com,34,Phoenix,2022-02-12
+114,Customer_114,customer_114@example.com,25,Houston,2022-12-09
+115,Customer_115,customer_115@example.com,52,Chicago,2022-11-22
+116,Customer_116,customer_116@example.com,52,Phoenix,2023-05-13
+117,Customer_117,customer_117@example.com,50,Phoenix,2022-12-30
+118,Customer_118,customer_118@example.com,22,Phoenix,2023-03-03
+119,Customer_119,customer_119@example.com,59,Chicago,2022-01-21
+120,Customer_120,customer_120@example.com,56,Chicago,2023-02-11
+121,Customer_121,customer_121@example.com,58,Los Angeles,2023-09-11
+122,Customer_122,customer_122@example.com,45,Houston,2022-12-02
+123,Customer_123,customer_123@example.com,24,New York,2022-04-27
+124,Customer_124,customer_124@example.com,26,Phoenix,2022-05-04
+125,Customer_125,customer_125@example.com,25,Los Angeles,2023-02-03
+126,Customer_126,customer_126@example.com,29,New York,2023-12-16
+127,Customer_127,customer_127@example.com,51,Los Angeles,2022-02-20
+128,Customer_128,customer_128@example.com,50,Chicago,2022-11-20
+129,Customer_129,customer_129@example.com,65,Phoenix,2022-05-21
+130,Customer_130,customer_130@example.com,40,New York,2023-04-15
+131,Customer_131,customer_131@example.com,41,New York,2022-11-30
+132,Customer_132,customer_132@example.com,54,New York,2023-01-08
+133,Customer_133,customer_133@example.com,52,New York,2023-07-18
+134,Customer_134,customer_134@example.com,61,New York,2023-05-09
+135,Customer_135,customer_135@example.com,57,Los Angeles,2023-06-23
+136,Customer_136,customer_136@example.com,39,Phoenix,2023-10-31
+137,Customer_137,customer_137@example.com,44,Chicago,2022-06-05
+138,Customer_138,customer_138@example.com,52,Chicago,2022-10-18
+139,Customer_139,customer_139@example.com,18,Chicago,2023-10-10
+140,Customer_140,customer_140@example.com,52,Chicago,2022-05-24
+141,Customer_141,customer_141@example.com,54,Los Angeles,2022-04-16
+142,Customer_142,customer_142@example.com,64,Houston,2023-02-24
+143,Customer_143,customer_143@example.com,31,Phoenix,2023-11-01
+144,Customer_144,customer_144@example.com,20,New York,2023-10-20
+145,Customer_145,customer_145@example.com,18,Houston,2022-01-02
+146,Customer_146,customer_146@example.com,22,Chicago,2023-08-12
+147,Customer_147,customer_147@example.com,43,Houston,2023-10-06
+148,Customer_148,customer_148@example.com,31,Phoenix,2022-03-31
+149,Customer_149,customer_149@example.com,56,New York,2022-12-11
+150,Customer_150,customer_150@example.com,44,New York,2022-12-16
+151,Customer_151,customer_151@example.com,26,Phoenix,2023-04-04
+152,Customer_152,customer_152@example.com,32,Phoenix,2022-09-20
+153,Customer_153,customer_153@example.com,32,Chicago,2022-12-17
+154,Customer_154,customer_154@example.com,43,New York,2022-04-18
+155,Customer_155,customer_155@example.com,59,Houston,2023-08-09
+156,Customer_156,customer_156@example.com,30,Los Angeles,2022-02-08
+157,Customer_157,customer_157@example.com,68,Los Angeles,2022-06-08
+158,Customer_158,customer_158@example.com,49,Phoenix,2023-08-06
+159,Customer_159,customer_159@example.com,56,Chicago,2022-11-08
+160,Customer_160,customer_160@example.com,66,Los Angeles,2022-08-29
+161,Customer_161,customer_161@example.com,69,New York,2023-03-21
+162,Customer_162,customer_162@example.com,49,Phoenix,2022-10-25
+163,Customer_163,customer_163@example.com,21,Houston,2022-02-05
+164,Customer_164,customer_164@example.com,47,Phoenix,2022-03-25
+165,Customer_165,customer_165@example.com,54,Houston,2023-03-28
+166,Customer_166,customer_166@example.com,40,Phoenix,2023-01-20
+167,Customer_167,customer_167@example.com,56,Phoenix,2022-06-21
+168,Customer_168,customer_168@example.com,62,Phoenix,2023-01-11
+169,Customer_169,customer_169@example.com,32,Houston,2023-11-16
+170,Customer_170,customer_170@example.com,60,Houston,2022-12-28
+171,Customer_171,customer_171@example.com,46,Phoenix,2023-07-13
+172,Customer_172,customer_172@example.com,53,Los Angeles,2022-05-21
+173,Customer_173,customer_173@example.com,30,Chicago,2022-04-28
+174,Customer_174,customer_174@example.com,49,Chicago,2022-10-04
+175,Customer_175,customer_175@example.com,24,Chicago,2023-12-27
+176,Customer_176,customer_176@example.com,68,Houston,2022-08-08
+177,Customer_177,customer_177@example.com,39,Houston,2022-01-26
+178,Customer_178,customer_178@example.com,45,Los Angeles,2023-06-05
+179,Customer_179,customer_179@example.com,19,Chicago,2022-01-10
+180,Customer_180,customer_180@example.com,59,Chicago,2023-01-13
+181,Customer_181,customer_181@example.com,62,Phoenix,2023-09-25
+182,Customer_182,customer_182@example.com,23,Houston,2023-09-29
+183,Customer_183,customer_183@example.com,45,Chicago,2023-11-13
+184,Customer_184,customer_184@example.com,45,Los Angeles,2023-08-07
+185,Customer_185,customer_185@example.com,61,Los Angeles,2022-06-01
+186,Customer_186,customer_186@example.com,61,Chicago,2023-12-21
+187,Customer_187,customer_187@example.com,37,Houston,2022-02-18
+188,Customer_188,customer_188@example.com,47,Los Angeles,2022-06-03
+189,Customer_189,customer_189@example.com,28,Phoenix,2022-10-20
+190,Customer_190,customer_190@example.com,45,Los Angeles,2023-08-03
+191,Customer_191,customer_191@example.com,42,New York,2022-02-19
+192,Customer_192,customer_192@example.com,56,New York,2023-10-26
+193,Customer_193,customer_193@example.com,50,Houston,2023-06-15
+194,Customer_194,customer_194@example.com,18,Chicago,2023-09-04
+195,Customer_195,customer_195@example.com,44,Houston,2022-03-01
+196,Customer_196,customer_196@example.com,69,Houston,2022-06-16
+197,Customer_197,customer_197@example.com,30,Houston,2022-07-21
+198,Customer_198,customer_198@example.com,58,Houston,2022-05-26
+199,Customer_199,customer_199@example.com,20,Phoenix,2023-11-07
+200,Customer_200,customer_200@example.com,56,Phoenix,2023-03-15
+201,Customer_201,customer_201@example.com,23,Los Angeles,2022-08-30
+202,Customer_202,customer_202@example.com,25,New York,2023-08-04
+203,Customer_203,customer_203@example.com,44,Houston,2023-11-18
+204,Customer_204,customer_204@example.com,26,Los Angeles,2023-07-15
+205,Customer_205,customer_205@example.com,54,New York,2023-04-28
+206,Customer_206,customer_206@example.com,50,Chicago,2022-04-18
+207,Customer_207,customer_207@example.com,68,Phoenix,2022-08-14
+208,Customer_208,customer_208@example.com,59,New York,2023-11-04
+209,Customer_209,customer_209@example.com,61,Chicago,2023-09-23
+210,Customer_210,customer_210@example.com,41,New York,2023-10-23
+211,Customer_211,customer_211@example.com,32,Phoenix,2023-10-24
+212,Customer_212,customer_212@example.com,49,Phoenix,2023-03-08
+213,Customer_213,customer_213@example.com,49,Los Angeles,2023-10-17
+214,Customer_214,customer_214@example.com,41,Houston,2023-02-23
+215,Customer_215,customer_215@example.com,58,New York,2023-03-31
+216,Customer_216,customer_216@example.com,69,New York,2022-06-09
+217,Customer_217,customer_217@example.com,66,Chicago,2023-06-07
+218,Customer_218,customer_218@example.com,66,Phoenix,2023-10-12
+219,Customer_219,customer_219@example.com,69,New York,2023-08-13
+220,Customer_220,customer_220@example.com,29,Phoenix,2022-03-18
+221,Customer_221,customer_221@example.com,56,New York,2023-05-24
+222,Customer_222,customer_222@example.com,19,Los Angeles,2023-03-17
+223,Customer_223,customer_223@example.com,20,Houston,2022-09-11
+224,Customer_224,customer_224@example.com,66,New York,2022-11-16
+225,Customer_225,customer_225@example.com,54,Phoenix,2022-09-20
+226,Customer_226,customer_226@example.com,66,Los Angeles,2023-08-20
+227,Customer_227,customer_227@example.com,34,New York,2023-10-20
+228,Customer_228,customer_228@example.com,66,Chicago,2023-07-08
+229,Customer_229,customer_229@example.com,19,Houston,2023-01-09
+230,Customer_230,customer_230@example.com,19,New York,2023-09-29
+231,Customer_231,customer_231@example.com,45,Los Angeles,2022-06-16
+232,Customer_232,customer_232@example.com,40,Chicago,2023-04-04
+233,Customer_233,customer_233@example.com,54,Los Angeles,2022-10-07
+234,Customer_234,customer_234@example.com,49,Los Angeles,2023-12-01
+235,Customer_235,customer_235@example.com,50,Chicago,2022-10-29
+236,Customer_236,customer_236@example.com,18,Los Angeles,2023-06-15
+237,Customer_237,customer_237@example.com,36,Chicago,2023-08-03
+238,Customer_238,customer_238@example.com,19,New York,2022-08-06
+239,Customer_239,customer_239@example.com,61,Chicago,2022-04-12
+240,Customer_240,customer_240@example.com,43,Chicago,2023-07-08
+241,Customer_241,customer_241@example.com,49,Houston,2022-10-15
+242,Customer_242,customer_242@example.com,23,Chicago,2022-06-16
+243,Customer_243,customer_243@example.com,49,Chicago,2023-09-13
+244,Customer_244,customer_244@example.com,21,New York,2022-02-05
+245,Customer_245,customer_245@example.com,28,Houston,2022-12-19
+246,Customer_246,customer_246@example.com,34,Phoenix,2023-11-07
+247,Customer_247,customer_247@example.com,55,New York,2022-03-14
+248,Customer_248,customer_248@example.com,41,New York,2023-10-10
+249,Customer_249,customer_249@example.com,22,Phoenix,2022-12-19
+250,Customer_250,customer_250@example.com,69,Chicago,2022-03-11
+251,Customer_251,customer_251@example.com,51,Los Angeles,2023-03-01
+252,Customer_252,customer_252@example.com,23,Houston,2023-12-09
+253,Customer_253,customer_253@example.com,39,Los Angeles,2023-07-15
+254,Customer_254,customer_254@example.com,28,Phoenix,2023-10-04
+255,Customer_255,customer_255@example.com,65,New York,2023-06-01
+256,Customer_256,customer_256@example.com,33,New York,2023-03-04
+257,Customer_257,customer_257@example.com,50,Houston,2023-06-23
+258,Customer_258,customer_258@example.com,26,New York,2022-06-09
+259,Customer_259,customer_259@example.com,23,New York,2022-05-29
+260,Customer_260,customer_260@example.com,33,Houston,2022-08-18
+261,Customer_261,customer_261@example.com,46,Houston,2023-12-13
+262,Customer_262,customer_262@example.com,20,Phoenix,2023-07-16
+263,Customer_263,customer_263@example.com,37,New York,2022-03-08
+264,Customer_264,customer_264@example.com,53,New York,2023-01-16
+265,Customer_265,customer_265@example.com,36,Phoenix,2022-02-27
+266,Customer_266,customer_266@example.com,43,Chicago,2022-09-16
+267,Customer_267,customer_267@example.com,20,Chicago,2022-12-08
+268,Customer_268,customer_268@example.com,36,Chicago,2022-05-10
+269,Customer_269,customer_269@example.com,37,Phoenix,2023-12-28
+270,Customer_270,customer_270@example.com,49,New York,2022-06-21
+271,Customer_271,customer_271@example.com,24,Phoenix,2023-09-06
+272,Customer_272,customer_272@example.com,69,Phoenix,2022-07-28
+273,Customer_273,customer_273@example.com,58,Chicago,2022-12-20
+274,Customer_274,customer_274@example.com,50,Los Angeles,2023-04-16
+275,Customer_275,customer_275@example.com,57,New York,2022-04-26
+276,Customer_276,customer_276@example.com,56,Chicago,2022-09-21
+277,Customer_277,customer_277@example.com,35,Los Angeles,2023-10-24
+278,Customer_278,customer_278@example.com,57,Los Angeles,2023-03-18
+279,Customer_279,customer_279@example.com,18,Houston,2023-07-02
+280,Customer_280,customer_280@example.com,28,New York,2023-03-29
+281,Customer_281,customer_281@example.com,45,Los Angeles,2023-04-22
+282,Customer_282,customer_282@example.com,42,Chicago,2022-10-14
+283,Customer_283,customer_283@example.com,67,Houston,2022-10-30
+284,Customer_284,customer_284@example.com,40,New York,2022-11-07
+285,Customer_285,customer_285@example.com,48,Phoenix,2022-07-27
+286,Customer_286,customer_286@example.com,47,Chicago,2023-09-10
+287,Customer_287,customer_287@example.com,59,Los Angeles,2023-03-22
+288,Customer_288,customer_288@example.com,52,Los Angeles,2023-11-01
+289,Customer_289,customer_289@example.com,24,Chicago,2023-09-25
+290,Customer_290,customer_290@example.com,33,Los Angeles,2022-02-24
+291,Customer_291,customer_291@example.com,43,Houston,2022-01-12
+292,Customer_292,customer_292@example.com,65,New York,2023-10-19
+293,Customer_293,customer_293@example.com,69,Houston,2023-02-04
+294,Customer_294,customer_294@example.com,66,Los Angeles,2023-10-10
+295,Customer_295,customer_295@example.com,19,Phoenix,2023-05-30
+296,Customer_296,customer_296@example.com,18,New York,2023-10-18
+297,Customer_297,customer_297@example.com,65,New York,2023-06-26
+298,Customer_298,customer_298@example.com,29,Chicago,2022-08-25
+299,Customer_299,customer_299@example.com,22,Chicago,2022-10-06
+300,Customer_300,customer_300@example.com,54,Phoenix,2022-12-14
+301,Customer_301,customer_301@example.com,49,New York,2023-09-19
+302,Customer_302,customer_302@example.com,26,Phoenix,2022-04-14
+303,Customer_303,customer_303@example.com,58,Chicago,2023-09-22
+304,Customer_304,customer_304@example.com,52,Chicago,2023-06-01
+305,Customer_305,customer_305@example.com,36,New York,2022-09-05
+306,Customer_306,customer_306@example.com,65,Houston,2022-12-30
+307,Customer_307,customer_307@example.com,33,Los Angeles,2022-11-17
+308,Customer_308,customer_308@example.com,20,Chicago,2023-09-25
+309,Customer_309,customer_309@example.com,37,Chicago,2022-10-13
+310,Customer_310,customer_310@example.com,41,Houston,2022-05-29
+311,Customer_311,customer_311@example.com,50,Houston,2022-03-25
+312,Customer_312,customer_312@example.com,41,Phoenix,2023-02-10
+313,Customer_313,customer_313@example.com,69,Phoenix,2023-04-01
+314,Customer_314,customer_314@example.com,28,Los Angeles,2022-06-10
+315,Customer_315,customer_315@example.com,66,Los Angeles,2023-04-05
+316,Customer_316,customer_316@example.com,25,New York,2023-07-04
+317,Customer_317,customer_317@example.com,53,Phoenix,2023-05-15
+318,Customer_318,customer_318@example.com,55,Chicago,2023-05-24
+319,Customer_319,customer_319@example.com,57,Phoenix,2023-10-16
+320,Customer_320,customer_320@example.com,37,Chicago,2023-04-26
+321,Customer_321,customer_321@example.com,52,Houston,2023-10-25
+322,Customer_322,customer_322@example.com,65,Phoenix,2022-04-24
+323,Customer_323,customer_323@example.com,42,Houston,2023-08-01
+324,Customer_324,customer_324@example.com,52,Los Angeles,2022-12-27
+325,Customer_325,customer_325@example.com,42,Los Angeles,2022-12-07
+326,Customer_326,customer_326@example.com,46,New York,2023-03-25
+327,Customer_327,customer_327@example.com,35,Phoenix,2022-06-29
+328,Customer_328,customer_328@example.com,63,Houston,2023-12-03
+329,Customer_329,customer_329@example.com,35,Chicago,2023-02-11
+330,Customer_330,customer_330@example.com,19,Los Angeles,2023-10-28
+331,Customer_331,customer_331@example.com,52,Los Angeles,2022-07-15
+332,Customer_332,customer_332@example.com,33,Chicago,2023-04-11
+333,Customer_333,customer_333@example.com,58,Houston,2022-11-07
+334,Customer_334,customer_334@example.com,53,Houston,2022-09-19
+335,Customer_335,customer_335@example.com,50,Phoenix,2023-02-23
+336,Customer_336,customer_336@example.com,21,Phoenix,2023-02-10
+337,Customer_337,customer_337@example.com,50,New York,2022-05-23
+338,Customer_338,customer_338@example.com,31,Los Angeles,2022-12-08
+339,Customer_339,customer_339@example.com,38,Phoenix,2022-11-12
+340,Customer_340,customer_340@example.com,65,Houston,2022-04-11
+341,Customer_341,customer_341@example.com,37,Chicago,2022-09-01
+342,Customer_342,customer_342@example.com,25,Houston,2023-05-05
+343,Customer_343,customer_343@example.com,24,Los Angeles,2022-01-12
+344,Customer_344,customer_344@example.com,20,Houston,2022-08-27
+345,Customer_345,customer_345@example.com,34,New York,2023-07-15
+346,Customer_346,customer_346@example.com,50,Los Angeles,2022-02-11
+347,Customer_347,customer_347@example.com,65,Chicago,2023-11-09
+348,Customer_348,customer_348@example.com,29,New York,2023-08-17
+349,Customer_349,customer_349@example.com,68,Los Angeles,2023-03-05
+350,Customer_350,customer_350@example.com,39,Chicago,2022-06-07
+351,Customer_351,customer_351@example.com,39,New York,2022-08-04
+352,Customer_352,customer_352@example.com,63,New York,2023-11-01
+353,Customer_353,customer_353@example.com,47,Los Angeles,2023-04-07
+354,Customer_354,customer_354@example.com,55,Phoenix,2022-05-14
+355,Customer_355,customer_355@example.com,55,New York,2022-03-08
+356,Customer_356,customer_356@example.com,62,New York,2022-01-07
+357,Customer_357,customer_357@example.com,68,Chicago,2023-06-10
+358,Customer_358,customer_358@example.com,25,Houston,2022-03-14
+359,Customer_359,customer_359@example.com,44,Los Angeles,2023-02-03
+360,Customer_360,customer_360@example.com,44,Los Angeles,2023-02-09
+361,Customer_361,customer_361@example.com,51,Phoenix,2023-11-06
+362,Customer_362,customer_362@example.com,38,Phoenix,2023-08-01
+363,Customer_363,customer_363@example.com,47,Los Angeles,2022-05-10
+364,Customer_364,customer_364@example.com,50,Phoenix,2023-04-11
+365,Customer_365,customer_365@example.com,45,Chicago,2022-07-25
+366,Customer_366,customer_366@example.com,64,Los Angeles,2022-09-23
+367,Customer_367,customer_367@example.com,50,Phoenix,2023-06-21
+368,Customer_368,customer_368@example.com,22,Los Angeles,2022-09-10
+369,Customer_369,customer_369@example.com,65,Houston,2022-10-16
+370,Customer_370,customer_370@example.com,36,New York,2022-06-13
+371,Customer_371,customer_371@example.com,21,Los Angeles,2022-04-05
+372,Customer_372,customer_372@example.com,52,New York,2022-04-20
+373,Customer_373,customer_373@example.com,66,Phoenix,2022-12-02
+374,Customer_374,customer_374@example.com,34,New York,2022-08-26
+375,Customer_375,customer_375@example.com,61,Los Angeles,2023-01-16
+376,Customer_376,customer_376@example.com,45,Houston,2023-03-12
+377,Customer_377,customer_377@example.com,47,Phoenix,2023-04-28
+378,Customer_378,customer_378@example.com,46,Los Angeles,2022-01-25
+379,Customer_379,customer_379@example.com,63,Phoenix,2023-10-15
+380,Customer_380,customer_380@example.com,23,Chicago,2022-04-27
+381,Customer_381,customer_381@example.com,52,New York,2023-04-27
+382,Customer_382,customer_382@example.com,58,Chicago,2023-01-27
+383,Customer_383,customer_383@example.com,54,Los Angeles,2023-06-21
+384,Customer_384,customer_384@example.com,41,Houston,2022-03-20
+385,Customer_385,customer_385@example.com,46,Phoenix,2023-08-03
+386,Customer_386,customer_386@example.com,66,New York,2022-06-22
+387,Customer_387,customer_387@example.com,63,Phoenix,2022-01-12
+388,Customer_388,customer_388@example.com,48,Los Angeles,2022-05-08
+389,Customer_389,customer_389@example.com,52,Phoenix,2023-08-31
+390,Customer_390,customer_390@example.com,50,New York,2022-04-02
+391,Customer_391,customer_391@example.com,69,Los Angeles,2023-10-15
+392,Customer_392,customer_392@example.com,38,Phoenix,2023-06-27
+393,Customer_393,customer_393@example.com,49,Houston,2023-06-16
+394,Customer_394,customer_394@example.com,40,Los Angeles,2023-10-20
+395,Customer_395,customer_395@example.com,50,Los Angeles,2023-03-23
+396,Customer_396,customer_396@example.com,20,Houston,2023-01-25
+397,Customer_397,customer_397@example.com,35,Chicago,2023-11-03
+398,Customer_398,customer_398@example.com,42,New York,2022-02-12
+399,Customer_399,customer_399@example.com,59,Chicago,2022-09-11
+400,Customer_400,customer_400@example.com,48,Phoenix,2022-05-10
+401,Customer_401,customer_401@example.com,20,Houston,2022-03-01
+402,Customer_402,customer_402@example.com,57,Chicago,2023-10-25
+403,Customer_403,customer_403@example.com,63,Los Angeles,2023-04-12
+404,Customer_404,customer_404@example.com,41,Phoenix,2022-10-14
+405,Customer_405,customer_405@example.com,67,Phoenix,2023-06-01
+406,Customer_406,customer_406@example.com,49,Chicago,2023-04-12
+407,Customer_407,customer_407@example.com,64,Chicago,2022-12-11
+408,Customer_408,customer_408@example.com,39,Houston,2023-10-04
+409,Customer_409,customer_409@example.com,40,New York,2023-01-17
+410,Customer_410,customer_410@example.com,19,Chicago,2023-11-21
+411,Customer_411,customer_411@example.com,44,Chicago,2022-09-10
+412,Customer_412,customer_412@example.com,59,Los Angeles,2022-02-25
+413,Customer_413,customer_413@example.com,19,Phoenix,2023-04-08
+414,Customer_414,customer_414@example.com,43,New York,2023-04-02
+415,Customer_415,customer_415@example.com,34,Los Angeles,2022-03-24
+416,Customer_416,customer_416@example.com,57,Houston,2022-04-09
+417,Customer_417,customer_417@example.com,50,Houston,2022-05-29
+418,Customer_418,customer_418@example.com,26,Chicago,2022-11-25
+419,Customer_419,customer_419@example.com,60,Chicago,2022-06-05
+420,Customer_420,customer_420@example.com,65,Houston,2022-07-09
+421,Customer_421,customer_421@example.com,56,Chicago,2023-05-09
+422,Customer_422,customer_422@example.com,46,New York,2022-09-20
+423,Customer_423,customer_423@example.com,59,Chicago,2022-03-21
+424,Customer_424,customer_424@example.com,43,Phoenix,2023-02-04
+425,Customer_425,customer_425@example.com,52,Chicago,2023-09-01
+426,Customer_426,customer_426@example.com,67,Los Angeles,2022-09-17
+427,Customer_427,customer_427@example.com,42,New York,2023-09-07
+428,Customer_428,customer_428@example.com,41,Los Angeles,2023-07-06
+429,Customer_429,customer_429@example.com,30,Los Angeles,2022-04-11
+430,Customer_430,customer_430@example.com,24,Phoenix,2022-12-25
+431,Customer_431,customer_431@example.com,53,New York,2023-01-15
+432,Customer_432,customer_432@example.com,62,New York,2022-08-09
+433,Customer_433,customer_433@example.com,37,New York,2023-02-24
+434,Customer_434,customer_434@example.com,18,New York,2022-05-04
+435,Customer_435,customer_435@example.com,25,New York,2023-02-26
+436,Customer_436,customer_436@example.com,63,Phoenix,2022-08-19
+437,Customer_437,customer_437@example.com,33,Chicago,2023-11-21
+438,Customer_438,customer_438@example.com,31,Los Angeles,2022-03-04
+439,Customer_439,customer_439@example.com,29,New York,2023-04-30
+440,Customer_440,customer_440@example.com,68,Chicago,2023-09-20
+441,Customer_441,customer_441@example.com,40,Chicago,2023-12-04
+442,Customer_442,customer_442@example.com,32,Los Angeles,2023-07-28
+443,Customer_443,customer_443@example.com,45,Phoenix,2023-04-28
+444,Customer_444,customer_444@example.com,51,Houston,2023-06-03
+445,Customer_445,customer_445@example.com,19,Houston,2022-06-04
+446,Customer_446,customer_446@example.com,49,Chicago,2022-04-02
+447,Customer_447,customer_447@example.com,40,Los Angeles,2023-06-10
+448,Customer_448,customer_448@example.com,39,Houston,2023-03-31
+449,Customer_449,customer_449@example.com,68,Chicago,2023-08-21
+450,Customer_450,customer_450@example.com,42,Phoenix,2023-10-07
+451,Customer_451,customer_451@example.com,39,Houston,2023-05-25
+452,Customer_452,customer_452@example.com,39,Chicago,2022-07-02
+453,Customer_453,customer_453@example.com,66,Chicago,2023-01-21
+454,Customer_454,customer_454@example.com,69,New York,2023-07-28
+455,Customer_455,customer_455@example.com,59,Phoenix,2023-02-09
+456,Customer_456,customer_456@example.com,23,New York,2022-09-03
+457,Customer_457,customer_457@example.com,32,Los Angeles,2023-08-14
+458,Customer_458,customer_458@example.com,60,New York,2023-10-23
+459,Customer_459,customer_459@example.com,54,New York,2023-10-12
+460,Customer_460,customer_460@example.com,50,Houston,2023-04-16
+461,Customer_461,customer_461@example.com,25,Chicago,2023-02-27
+462,Customer_462,customer_462@example.com,61,Phoenix,2022-03-06
+463,Customer_463,customer_463@example.com,61,New York,2022-01-13
+464,Customer_464,customer_464@example.com,22,Phoenix,2022-08-01
+465,Customer_465,customer_465@example.com,56,New York,2022-08-30
+466,Customer_466,customer_466@example.com,21,Los Angeles,2023-05-08
+467,Customer_467,customer_467@example.com,23,New York,2022-08-01
+468,Customer_468,customer_468@example.com,62,Houston,2023-11-24
+469,Customer_469,customer_469@example.com,49,Chicago,2022-12-04
+470,Customer_470,customer_470@example.com,69,Los Angeles,2022-06-22
+471,Customer_471,customer_471@example.com,47,New York,2023-11-03
+472,Customer_472,customer_472@example.com,64,Phoenix,2022-06-13
+473,Customer_473,customer_473@example.com,52,Los Angeles,2023-04-10
+474,Customer_474,customer_474@example.com,57,Los Angeles,2023-05-12
+475,Customer_475,customer_475@example.com,69,New York,2023-12-01
+476,Customer_476,customer_476@example.com,33,Los Angeles,2023-01-30
+477,Customer_477,customer_477@example.com,30,Phoenix,2023-12-04
+478,Customer_478,customer_478@example.com,67,Los Angeles,2022-11-04
+479,Customer_479,customer_479@example.com,59,Phoenix,2022-07-02
+480,Customer_480,customer_480@example.com,47,New York,2023-09-21
+481,Customer_481,customer_481@example.com,36,Chicago,2023-05-25
+482,Customer_482,customer_482@example.com,34,Los Angeles,2023-12-09
+483,Customer_483,customer_483@example.com,36,Chicago,2023-06-30
+484,Customer_484,customer_484@example.com,45,Phoenix,2023-07-18
+485,Customer_485,customer_485@example.com,43,Los Angeles,2023-09-16
+486,Customer_486,customer_486@example.com,54,Houston,2023-08-17
+487,Customer_487,customer_487@example.com,43,Chicago,2022-08-15
+488,Customer_488,customer_488@example.com,40,Los Angeles,2023-03-12
+489,Customer_489,customer_489@example.com,26,Chicago,2023-02-26
+490,Customer_490,customer_490@example.com,29,Los Angeles,2023-07-08
+491,Customer_491,customer_491@example.com,18,New York,2022-01-21
+492,Customer_492,customer_492@example.com,18,Chicago,2023-07-08
+493,Customer_493,customer_493@example.com,64,Houston,2023-02-01
+494,Customer_494,customer_494@example.com,51,Houston,2023-09-17
+495,Customer_495,customer_495@example.com,49,Phoenix,2022-04-15
+496,Customer_496,customer_496@example.com,65,Los Angeles,2022-07-11
+497,Customer_497,customer_497@example.com,42,Chicago,2022-01-17
+498,Customer_498,customer_498@example.com,57,Phoenix,2022-04-30
+499,Customer_499,customer_499@example.com,62,Chicago,2023-01-28
+500,Customer_500,customer_500@example.com,18,Los Angeles,2023-03-01
+501,Customer_501,customer_501@example.com,33,Houston,2022-05-09
+502,Customer_502,customer_502@example.com,56,New York,2022-05-10
+503,Customer_503,customer_503@example.com,22,Houston,2023-07-26
+504,Customer_504,customer_504@example.com,39,Phoenix,2023-07-14
+505,Customer_505,customer_505@example.com,46,New York,2022-01-29
+506,Customer_506,customer_506@example.com,20,Phoenix,2022-04-07
+507,Customer_507,customer_507@example.com,29,Los Angeles,2022-01-10
+508,Customer_508,customer_508@example.com,43,New York,2022-08-30
+509,Customer_509,customer_509@example.com,33,Phoenix,2022-08-20
+510,Customer_510,customer_510@example.com,68,Los Angeles,2022-10-11
+511,Customer_511,customer_511@example.com,54,Houston,2023-12-16
+512,Customer_512,customer_512@example.com,39,Los Angeles,2023-12-27
+513,Customer_513,customer_513@example.com,46,Chicago,2022-07-19
+514,Customer_514,customer_514@example.com,31,Los Angeles,2022-03-20
+515,Customer_515,customer_515@example.com,45,Los Angeles,2022-06-22
+516,Customer_516,customer_516@example.com,22,Chicago,2023-04-12
+517,Customer_517,customer_517@example.com,64,Phoenix,2023-08-04
+518,Customer_518,customer_518@example.com,66,Phoenix,2023-02-20
+519,Customer_519,customer_519@example.com,47,Los Angeles,2023-03-25
+520,Customer_520,customer_520@example.com,63,Chicago,2022-03-28
+521,Customer_521,customer_521@example.com,69,Chicago,2022-04-11
+522,Customer_522,customer_522@example.com,22,Houston,2022-01-08
+523,Customer_523,customer_523@example.com,29,Phoenix,2022-07-19
+524,Customer_524,customer_524@example.com,33,New York,2023-05-20
+525,Customer_525,customer_525@example.com,43,Phoenix,2022-03-28
+526,Customer_526,customer_526@example.com,43,Phoenix,2022-02-12
+527,Customer_527,customer_527@example.com,65,Houston,2023-01-20
+528,Customer_528,customer_528@example.com,38,New York,2023-09-13
+529,Customer_529,customer_529@example.com,56,Houston,2023-03-11
+530,Customer_530,customer_530@example.com,53,New York,2023-02-12
+531,Customer_531,customer_531@example.com,50,Los Angeles,2023-04-28
+532,Customer_532,customer_532@example.com,47,New York,2023-10-26
+533,Customer_533,customer_533@example.com,54,Houston,2022-01-17
+534,Customer_534,customer_534@example.com,40,Phoenix,2023-10-07
+535,Customer_535,customer_535@example.com,27,New York,2022-05-28
+536,Customer_536,customer_536@example.com,22,New York,2022-10-04
+537,Customer_537,customer_537@example.com,53,Chicago,2022-08-20
+538,Customer_538,customer_538@example.com,51,Phoenix,2023-01-01
+539,Customer_539,customer_539@example.com,69,Los Angeles,2022-08-16
+540,Customer_540,customer_540@example.com,48,Houston,2023-10-13
+541,Customer_541,customer_541@example.com,27,Los Angeles,2023-03-12
+542,Customer_542,customer_542@example.com,36,Phoenix,2023-02-03
+543,Customer_543,customer_543@example.com,49,New York,2022-07-30
+544,Customer_544,customer_544@example.com,18,New York,2023-01-26
+545,Customer_545,customer_545@example.com,22,Phoenix,2023-05-14
+546,Customer_546,customer_546@example.com,62,New York,2023-06-24
+547,Customer_547,customer_547@example.com,21,New York,2023-07-17
+548,Customer_548,customer_548@example.com,33,New York,2023-05-06
+549,Customer_549,customer_549@example.com,41,Houston,2023-03-18
+550,Customer_550,customer_550@example.com,33,Houston,2022-09-18
+551,Customer_551,customer_551@example.com,19,Chicago,2022-12-16
+552,Customer_552,customer_552@example.com,66,Los Angeles,2022-12-18
+553,Customer_553,customer_553@example.com,45,Phoenix,2023-06-04
+554,Customer_554,customer_554@example.com,49,Phoenix,2022-11-16
+555,Customer_555,customer_555@example.com,44,Phoenix,2022-05-18
+556,Customer_556,customer_556@example.com,37,Chicago,2023-07-04
+557,Customer_557,customer_557@example.com,41,Houston,2023-09-15
+558,Customer_558,customer_558@example.com,29,Chicago,2023-01-03
+559,Customer_559,customer_559@example.com,67,Phoenix,2022-08-08
+560,Customer_560,customer_560@example.com,52,Los Angeles,2022-12-03
+561,Customer_561,customer_561@example.com,50,New York,2022-08-11
+562,Customer_562,customer_562@example.com,50,Houston,2023-10-10
+563,Customer_563,customer_563@example.com,68,Houston,2022-12-26
+564,Customer_564,customer_564@example.com,60,Chicago,2022-11-25
+565,Customer_565,customer_565@example.com,54,Houston,2023-04-08
+566,Customer_566,customer_566@example.com,29,Phoenix,2023-07-15
+567,Customer_567,customer_567@example.com,20,Phoenix,2023-01-17
+568,Customer_568,customer_568@example.com,18,Chicago,2023-08-13
+569,Customer_569,customer_569@example.com,50,Phoenix,2023-09-09
+570,Customer_570,customer_570@example.com,57,Los Angeles,2022-06-18
+571,Customer_571,customer_571@example.com,27,Chicago,2022-08-05
+572,Customer_572,customer_572@example.com,60,Los Angeles,2023-01-13
+573,Customer_573,customer_573@example.com,61,New York,2022-04-29
+574,Customer_574,customer_574@example.com,46,Los Angeles,2022-07-09
+575,Customer_575,customer_575@example.com,30,New York,2023-01-05
+576,Customer_576,customer_576@example.com,29,New York,2022-05-29
+577,Customer_577,customer_577@example.com,48,Los Angeles,2023-11-07
+578,Customer_578,customer_578@example.com,63,Chicago,2023-10-14
+579,Customer_579,customer_579@example.com,19,Phoenix,2023-05-03
+580,Customer_580,customer_580@example.com,68,Phoenix,2023-01-09
+581,Customer_581,customer_581@example.com,67,New York,2023-11-24
+582,Customer_582,customer_582@example.com,52,New York,2022-06-09
+583,Customer_583,customer_583@example.com,40,Chicago,2022-12-17
+584,Customer_584,customer_584@example.com,34,Houston,2022-10-15
+585,Customer_585,customer_585@example.com,43,Los Angeles,2022-10-15
+586,Customer_586,customer_586@example.com,25,New York,2022-08-14
+587,Customer_587,customer_587@example.com,46,Phoenix,2023-06-07
+588,Customer_588,customer_588@example.com,43,Chicago,2023-06-06
+589,Customer_589,customer_589@example.com,27,Los Angeles,2022-09-30
+590,Customer_590,customer_590@example.com,43,Chicago,2023-02-06
+591,Customer_591,customer_591@example.com,51,Los Angeles,2022-07-02
+592,Customer_592,customer_592@example.com,68,Los Angeles,2023-10-27
+593,Customer_593,customer_593@example.com,58,New York,2023-05-03
+594,Customer_594,customer_594@example.com,24,Chicago,2022-05-04
+595,Customer_595,customer_595@example.com,21,Chicago,2023-09-18
+596,Customer_596,customer_596@example.com,67,Phoenix,2023-02-18
+597,Customer_597,customer_597@example.com,62,Phoenix,2023-12-26
+598,Customer_598,customer_598@example.com,28,New York,2022-06-21
+599,Customer_599,customer_599@example.com,46,New York,2022-10-15
+600,Customer_600,customer_600@example.com,53,Houston,2023-03-11
+601,Customer_601,customer_601@example.com,42,Phoenix,2023-11-17
+602,Customer_602,customer_602@example.com,38,Los Angeles,2022-04-23
+603,Customer_603,customer_603@example.com,53,Chicago,2022-05-02
+604,Customer_604,customer_604@example.com,27,New York,2023-06-28
+605,Customer_605,customer_605@example.com,54,Chicago,2022-08-10
+606,Customer_606,customer_606@example.com,26,Chicago,2023-09-23
+607,Customer_607,customer_607@example.com,41,Houston,2022-02-08
+608,Customer_608,customer_608@example.com,52,Phoenix,2023-05-12
+609,Customer_609,customer_609@example.com,66,New York,2022-08-21
+610,Customer_610,customer_610@example.com,52,Chicago,2023-06-14
+611,Customer_611,customer_611@example.com,65,New York,2022-05-29
+612,Customer_612,customer_612@example.com,53,Los Angeles,2023-02-01
+613,Customer_613,customer_613@example.com,35,Houston,2023-10-23
+614,Customer_614,customer_614@example.com,66,Los Angeles,2023-09-30
+615,Customer_615,customer_615@example.com,56,New York,2022-10-29
+616,Customer_616,customer_616@example.com,49,New York,2022-12-26
+617,Customer_617,customer_617@example.com,41,Phoenix,2022-08-26
+618,Customer_618,customer_618@example.com,40,Chicago,2023-10-09
+619,Customer_619,customer_619@example.com,49,Chicago,2023-10-25
+620,Customer_620,customer_620@example.com,54,Los Angeles,2022-08-24
+621,Customer_621,customer_621@example.com,29,Houston,2022-07-22
+622,Customer_622,customer_622@example.com,66,Chicago,2022-09-13
+623,Customer_623,customer_623@example.com,30,Phoenix,2023-08-21
+624,Customer_624,customer_624@example.com,40,Los Angeles,2023-10-24
+625,Customer_625,customer_625@example.com,42,Los Angeles,2022-08-23
+626,Customer_626,customer_626@example.com,52,Phoenix,2022-12-11
+627,Customer_627,customer_627@example.com,58,Houston,2023-06-18
+628,Customer_628,customer_628@example.com,47,Phoenix,2023-04-11
+629,Customer_629,customer_629@example.com,34,Houston,2023-06-25
+630,Customer_630,customer_630@example.com,66,Phoenix,2022-08-01
+631,Customer_631,customer_631@example.com,37,Phoenix,2023-04-08
+632,Customer_632,customer_632@example.com,65,New York,2023-03-12
+633,Customer_633,customer_633@example.com,42,Los Angeles,2022-10-10
+634,Customer_634,customer_634@example.com,39,Phoenix,2023-07-16
+635,Customer_635,customer_635@example.com,30,Phoenix,2023-08-30
+636,Customer_636,customer_636@example.com,36,Chicago,2023-04-08
+637,Customer_637,customer_637@example.com,66,Los Angeles,2023-02-11
+638,Customer_638,customer_638@example.com,53,Chicago,2022-03-29
+639,Customer_639,customer_639@example.com,29,Los Angeles,2022-02-13
+640,Customer_640,customer_640@example.com,58,Chicago,2023-04-06
+641,Customer_641,customer_641@example.com,36,Phoenix,2022-10-05
+642,Customer_642,customer_642@example.com,29,Phoenix,2023-11-14
+643,Customer_643,customer_643@example.com,26,New York,2023-02-25
+644,Customer_644,customer_644@example.com,24,Chicago,2023-12-02
+645,Customer_645,customer_645@example.com,45,Houston,2022-12-19
+646,Customer_646,customer_646@example.com,31,New York,2023-11-27
+647,Customer_647,customer_647@example.com,48,Chicago,2023-05-30
+648,Customer_648,customer_648@example.com,69,Chicago,2023-12-04
+649,Customer_649,customer_649@example.com,36,New York,2023-09-22
+650,Customer_650,customer_650@example.com,64,Phoenix,2022-01-19
+651,Customer_651,customer_651@example.com,33,Chicago,2022-01-23
+652,Customer_652,customer_652@example.com,22,Phoenix,2023-02-17
+653,Customer_653,customer_653@example.com,52,New York,2022-01-30
+654,Customer_654,customer_654@example.com,29,Phoenix,2022-04-18
+655,Customer_655,customer_655@example.com,42,Los Angeles,2023-01-02
+656,Customer_656,customer_656@example.com,69,Houston,2022-10-08
+657,Customer_657,customer_657@example.com,38,Chicago,2022-05-08
+658,Customer_658,customer_658@example.com,53,Houston,2022-08-17
+659,Customer_659,customer_659@example.com,40,Phoenix,2022-04-21
+660,Customer_660,customer_660@example.com,33,Chicago,2022-05-16
+661,Customer_661,customer_661@example.com,56,Phoenix,2022-12-28
+662,Customer_662,customer_662@example.com,62,Los Angeles,2022-07-05
+663,Customer_663,customer_663@example.com,59,New York,2023-10-18
+664,Customer_664,customer_664@example.com,56,Chicago,2023-08-07
+665,Customer_665,customer_665@example.com,31,Los Angeles,2022-05-09
+666,Customer_666,customer_666@example.com,48,Los Angeles,2022-09-18
+667,Customer_667,customer_667@example.com,22,Chicago,2023-05-30
+668,Customer_668,customer_668@example.com,52,Phoenix,2023-03-25
+669,Customer_669,customer_669@example.com,40,Los Angeles,2022-04-14
+670,Customer_670,customer_670@example.com,46,Houston,2023-04-28
+671,Customer_671,customer_671@example.com,60,Los Angeles,2022-08-12
+672,Customer_672,customer_672@example.com,28,Phoenix,2023-05-06
+673,Customer_673,customer_673@example.com,35,Phoenix,2023-04-18
+674,Customer_674,customer_674@example.com,64,Houston,2022-01-10
+675,Customer_675,customer_675@example.com,29,Los Angeles,2023-02-09
+676,Customer_676,customer_676@example.com,26,Phoenix,2022-10-29
+677,Customer_677,customer_677@example.com,27,Chicago,2022-08-19
+678,Customer_678,customer_678@example.com,61,New York,2022-03-07
+679,Customer_679,customer_679@example.com,34,New York,2022-04-22
+680,Customer_680,customer_680@example.com,55,New York,2022-01-13
+681,Customer_681,customer_681@example.com,24,Los Angeles,2023-01-28
+682,Customer_682,customer_682@example.com,63,Houston,2023-05-15
+683,Customer_683,customer_683@example.com,30,Phoenix,2023-08-21
+684,Customer_684,customer_684@example.com,57,Chicago,2022-08-22
+685,Customer_685,customer_685@example.com,59,Chicago,2023-08-25
+686,Customer_686,customer_686@example.com,26,Los Angeles,2022-11-10
+687,Customer_687,customer_687@example.com,67,New York,2023-07-20
+688,Customer_688,customer_688@example.com,44,Los Angeles,2022-01-12
+689,Customer_689,customer_689@example.com,19,Houston,2022-07-28
+690,Customer_690,customer_690@example.com,22,Houston,2022-01-14
+691,Customer_691,customer_691@example.com,46,Phoenix,2023-09-25
+692,Customer_692,customer_692@example.com,54,Phoenix,2023-02-22
+693,Customer_693,customer_693@example.com,55,Houston,2023-03-13
+694,Customer_694,customer_694@example.com,36,Houston,2023-01-12
+695,Customer_695,customer_695@example.com,25,Houston,2022-01-20
+696,Customer_696,customer_696@example.com,65,Los Angeles,2023-08-10
+697,Customer_697,customer_697@example.com,62,Houston,2022-03-11
+698,Customer_698,customer_698@example.com,18,Chicago,2022-07-30
+699,Customer_699,customer_699@example.com,39,New York,2022-04-11
+700,Customer_700,customer_700@example.com,69,Houston,2023-11-29
+701,Customer_701,customer_701@example.com,34,New York,2022-05-12
+702,Customer_702,customer_702@example.com,24,Los Angeles,2023-09-15
+703,Customer_703,customer_703@example.com,42,New York,2023-01-16
+704,Customer_704,customer_704@example.com,62,Los Angeles,2022-05-12
+705,Customer_705,customer_705@example.com,21,Chicago,2022-01-20
+706,Customer_706,customer_706@example.com,53,Los Angeles,2023-06-20
+707,Customer_707,customer_707@example.com,23,Los Angeles,2022-08-15
+708,Customer_708,customer_708@example.com,48,Phoenix,2022-06-03
+709,Customer_709,customer_709@example.com,36,Houston,2023-04-14
+710,Customer_710,customer_710@example.com,61,Houston,2023-02-09
+711,Customer_711,customer_711@example.com,56,Chicago,2022-07-21
+712,Customer_712,customer_712@example.com,44,Chicago,2022-02-07
+713,Customer_713,customer_713@example.com,27,Houston,2022-07-07
+714,Customer_714,customer_714@example.com,43,Phoenix,2022-02-26
+715,Customer_715,customer_715@example.com,36,Houston,2022-01-20
+716,Customer_716,customer_716@example.com,56,Phoenix,2022-09-30
+717,Customer_717,customer_717@example.com,20,Chicago,2022-04-29
+718,Customer_718,customer_718@example.com,62,New York,2023-08-06
+719,Customer_719,customer_719@example.com,30,Chicago,2023-05-31
+720,Customer_720,customer_720@example.com,67,Chicago,2022-08-09
+721,Customer_721,customer_721@example.com,45,Los Angeles,2023-06-10
+722,Customer_722,customer_722@example.com,37,Los Angeles,2023-05-30
+723,Customer_723,customer_723@example.com,45,Los Angeles,2023-12-29
+724,Customer_724,customer_724@example.com,25,Los Angeles,2022-12-02
+725,Customer_725,customer_725@example.com,58,Phoenix,2023-11-29
+726,Customer_726,customer_726@example.com,56,Houston,2022-02-24
+727,Customer_727,customer_727@example.com,18,New York,2023-05-15
+728,Customer_728,customer_728@example.com,20,Chicago,2023-06-20
+729,Customer_729,customer_729@example.com,30,Phoenix,2022-06-11
+730,Customer_730,customer_730@example.com,45,New York,2023-11-01
+731,Customer_731,customer_731@example.com,66,Phoenix,2023-08-17
+732,Customer_732,customer_732@example.com,42,Phoenix,2022-06-08
+733,Customer_733,customer_733@example.com,50,Chicago,2022-07-07
+734,Customer_734,customer_734@example.com,55,Houston,2022-03-01
+735,Customer_735,customer_735@example.com,23,Los Angeles,2022-11-15
+736,Customer_736,customer_736@example.com,61,Houston,2022-07-30
+737,Customer_737,customer_737@example.com,62,Chicago,2023-02-10
+738,Customer_738,customer_738@example.com,49,Chicago,2023-10-26
+739,Customer_739,customer_739@example.com,62,Chicago,2022-04-19
+740,Customer_740,customer_740@example.com,64,New York,2022-03-17
+741,Customer_741,customer_741@example.com,38,Houston,2023-06-26
+742,Customer_742,customer_742@example.com,33,Houston,2022-11-10
+743,Customer_743,customer_743@example.com,38,Phoenix,2022-04-27
+744,Customer_744,customer_744@example.com,28,Phoenix,2023-12-05
+745,Customer_745,customer_745@example.com,54,Phoenix,2022-01-19
+746,Customer_746,customer_746@example.com,53,Chicago,2023-03-08
+747,Customer_747,customer_747@example.com,52,Houston,2023-11-16
+748,Customer_748,customer_748@example.com,36,Chicago,2022-12-16
+749,Customer_749,customer_749@example.com,37,New York,2022-07-02
+750,Customer_750,customer_750@example.com,35,Phoenix,2022-04-23
+751,Customer_751,customer_751@example.com,64,Chicago,2022-07-02
+752,Customer_752,customer_752@example.com,58,Chicago,2023-04-26
+753,Customer_753,customer_753@example.com,66,New York,2022-05-26
+754,Customer_754,customer_754@example.com,31,Los Angeles,2023-09-20
+755,Customer_755,customer_755@example.com,32,Houston,2022-04-23
+756,Customer_756,customer_756@example.com,48,Los Angeles,2023-04-21
+757,Customer_757,customer_757@example.com,18,Phoenix,2022-10-30
+758,Customer_758,customer_758@example.com,20,Chicago,2022-04-28
+759,Customer_759,customer_759@example.com,33,New York,2022-06-10
+760,Customer_760,customer_760@example.com,40,New York,2023-02-05
+761,Customer_761,customer_761@example.com,28,Houston,2022-07-17
+762,Customer_762,customer_762@example.com,29,Los Angeles,2022-09-17
+763,Customer_763,customer_763@example.com,27,Houston,2023-10-22
+764,Customer_764,customer_764@example.com,49,Chicago,2022-02-16
+765,Customer_765,customer_765@example.com,33,Houston,2023-02-03
+766,Customer_766,customer_766@example.com,25,New York,2023-12-11
+767,Customer_767,customer_767@example.com,55,New York,2023-07-13
+768,Customer_768,customer_768@example.com,29,Phoenix,2022-03-19
+769,Customer_769,customer_769@example.com,41,Phoenix,2022-05-04
+770,Customer_770,customer_770@example.com,45,Chicago,2022-03-16
+771,Customer_771,customer_771@example.com,25,Los Angeles,2022-05-17
+772,Customer_772,customer_772@example.com,45,Houston,2023-08-25
+773,Customer_773,customer_773@example.com,53,Chicago,2023-02-04
+774,Customer_774,customer_774@example.com,43,Phoenix,2023-05-20
+775,Customer_775,customer_775@example.com,25,Houston,2023-05-15
+776,Customer_776,customer_776@example.com,67,Phoenix,2023-07-27
+777,Customer_777,customer_777@example.com,45,Houston,2022-05-18
+778,Customer_778,customer_778@example.com,45,Los Angeles,2022-02-19
+779,Customer_779,customer_779@example.com,54,Chicago,2023-09-11
+780,Customer_780,customer_780@example.com,58,Houston,2023-09-17
+781,Customer_781,customer_781@example.com,53,New York,2022-09-11
+782,Customer_782,customer_782@example.com,44,New York,2023-09-22
+783,Customer_783,customer_783@example.com,34,Houston,2023-12-11
+784,Customer_784,customer_784@example.com,26,Houston,2023-07-17
+785,Customer_785,customer_785@example.com,50,Houston,2023-03-02
+786,Customer_786,customer_786@example.com,37,New York,2023-07-01
+787,Customer_787,customer_787@example.com,30,New York,2022-10-29
+788,Customer_788,customer_788@example.com,45,Houston,2023-08-04
+789,Customer_789,customer_789@example.com,65,Phoenix,2022-12-15
+790,Customer_790,customer_790@example.com,46,Phoenix,2022-02-18
+791,Customer_791,customer_791@example.com,30,Los Angeles,2022-03-15
+792,Customer_792,customer_792@example.com,63,Chicago,2023-12-05
+793,Customer_793,customer_793@example.com,52,Phoenix,2022-09-18
+794,Customer_794,customer_794@example.com,23,New York,2022-12-22
+795,Customer_795,customer_795@example.com,35,Phoenix,2023-08-05
+796,Customer_796,customer_796@example.com,68,Los Angeles,2023-08-25
+797,Customer_797,customer_797@example.com,22,Los Angeles,2022-09-17
+798,Customer_798,customer_798@example.com,64,Chicago,2023-09-30
+799,Customer_799,customer_799@example.com,42,Phoenix,2022-10-22
+800,Customer_800,customer_800@example.com,19,New York,2023-10-03
+801,Customer_801,customer_801@example.com,27,New York,2022-11-09
+802,Customer_802,customer_802@example.com,47,Houston,2023-09-04
+803,Customer_803,customer_803@example.com,67,New York,2022-07-01
+804,Customer_804,customer_804@example.com,62,Chicago,2023-11-17
+805,Customer_805,customer_805@example.com,22,Chicago,2022-12-30
+806,Customer_806,customer_806@example.com,50,New York,2022-07-07
+807,Customer_807,customer_807@example.com,18,New York,2023-07-23
+808,Customer_808,customer_808@example.com,35,Houston,2023-06-27
+809,Customer_809,customer_809@example.com,49,New York,2023-08-19
+810,Customer_810,customer_810@example.com,64,Houston,2023-10-26
+811,Customer_811,customer_811@example.com,66,Houston,2023-07-02
+812,Customer_812,customer_812@example.com,28,New York,2023-12-26
+813,Customer_813,customer_813@example.com,38,Los Angeles,2023-02-12
+814,Customer_814,customer_814@example.com,43,Los Angeles,2023-09-10
+815,Customer_815,customer_815@example.com,42,Houston,2023-02-18
+816,Customer_816,customer_816@example.com,39,New York,2022-12-08
+817,Customer_817,customer_817@example.com,44,Los Angeles,2022-08-08
+818,Customer_818,customer_818@example.com,66,New York,2022-06-12
+819,Customer_819,customer_819@example.com,30,New York,2022-08-08
+820,Customer_820,customer_820@example.com,50,New York,2022-09-27
+821,Customer_821,customer_821@example.com,51,Phoenix,2023-09-24
+822,Customer_822,customer_822@example.com,58,New York,2023-02-04
+823,Customer_823,customer_823@example.com,52,Phoenix,2022-07-01
+824,Customer_824,customer_824@example.com,18,Houston,2023-09-10
+825,Customer_825,customer_825@example.com,38,Los Angeles,2023-12-30
+826,Customer_826,customer_826@example.com,65,Los Angeles,2022-07-24
+827,Customer_827,customer_827@example.com,23,Los Angeles,2023-08-05
+828,Customer_828,customer_828@example.com,45,Los Angeles,2023-07-10
+829,Customer_829,customer_829@example.com,34,Los Angeles,2022-08-16
+830,Customer_830,customer_830@example.com,22,Los Angeles,2023-11-27
+831,Customer_831,customer_831@example.com,48,Los Angeles,2023-09-11
+832,Customer_832,customer_832@example.com,22,Houston,2023-08-19
+833,Customer_833,customer_833@example.com,55,New York,2022-09-07
+834,Customer_834,customer_834@example.com,20,Chicago,2023-03-17
+835,Customer_835,customer_835@example.com,40,Phoenix,2023-06-17
+836,Customer_836,customer_836@example.com,54,Chicago,2022-07-15
+837,Customer_837,customer_837@example.com,54,Chicago,2023-11-21
+838,Customer_838,customer_838@example.com,27,New York,2023-06-03
+839,Customer_839,customer_839@example.com,27,New York,2022-03-11
+840,Customer_840,customer_840@example.com,36,New York,2023-10-01
+841,Customer_841,customer_841@example.com,34,Los Angeles,2023-02-03
+842,Customer_842,customer_842@example.com,38,Houston,2023-11-03
+843,Customer_843,customer_843@example.com,31,Los Angeles,2022-07-22
+844,Customer_844,customer_844@example.com,26,Houston,2022-05-28
+845,Customer_845,customer_845@example.com,63,Houston,2023-04-17
+846,Customer_846,customer_846@example.com,18,Chicago,2023-10-17
+847,Customer_847,customer_847@example.com,68,Chicago,2022-07-18
+848,Customer_848,customer_848@example.com,62,Houston,2023-03-02
+849,Customer_849,customer_849@example.com,30,Houston,2023-10-28
+850,Customer_850,customer_850@example.com,21,Los Angeles,2023-05-07
+851,Customer_851,customer_851@example.com,18,Los Angeles,2022-05-22
+852,Customer_852,customer_852@example.com,66,Chicago,2022-11-09
+853,Customer_853,customer_853@example.com,57,New York,2022-06-14
+854,Customer_854,customer_854@example.com,49,Houston,2022-11-10
+855,Customer_855,customer_855@example.com,51,Los Angeles,2022-01-21
+856,Customer_856,customer_856@example.com,45,Chicago,2022-03-23
+857,Customer_857,customer_857@example.com,48,Los Angeles,2023-08-04
+858,Customer_858,customer_858@example.com,25,Houston,2022-05-11
+859,Customer_859,customer_859@example.com,56,Houston,2023-08-22
+860,Customer_860,customer_860@example.com,43,Phoenix,2023-12-31
+861,Customer_861,customer_861@example.com,51,New York,2022-11-01
+862,Customer_862,customer_862@example.com,20,Phoenix,2023-01-06
+863,Customer_863,customer_863@example.com,67,Chicago,2023-01-19
+864,Customer_864,customer_864@example.com,29,Los Angeles,2023-03-21
+865,Customer_865,customer_865@example.com,18,Chicago,2023-03-01
+866,Customer_866,customer_866@example.com,61,Houston,2022-06-10
+867,Customer_867,customer_867@example.com,22,Phoenix,2022-06-27
+868,Customer_868,customer_868@example.com,47,Phoenix,2023-09-21
+869,Customer_869,customer_869@example.com,47,Phoenix,2023-12-09
+870,Customer_870,customer_870@example.com,34,Chicago,2023-05-05
+871,Customer_871,customer_871@example.com,65,Houston,2022-11-23
+872,Customer_872,customer_872@example.com,64,Los Angeles,2023-08-21
+873,Customer_873,customer_873@example.com,40,Los Angeles,2022-10-16
+874,Customer_874,customer_874@example.com,32,Chicago,2023-08-16
+875,Customer_875,customer_875@example.com,54,Phoenix,2023-10-26
+876,Customer_876,customer_876@example.com,38,New York,2023-07-27
+877,Customer_877,customer_877@example.com,31,Chicago,2023-07-27
+878,Customer_878,customer_878@example.com,19,Chicago,2022-12-20
+879,Customer_879,customer_879@example.com,28,Houston,2022-01-28
+880,Customer_880,customer_880@example.com,68,Los Angeles,2022-02-12
+881,Customer_881,customer_881@example.com,56,Chicago,2023-11-12
+882,Customer_882,customer_882@example.com,55,Chicago,2023-02-27
+883,Customer_883,customer_883@example.com,51,Phoenix,2023-08-21
+884,Customer_884,customer_884@example.com,55,Phoenix,2022-06-26
+885,Customer_885,customer_885@example.com,67,New York,2023-06-13
+886,Customer_886,customer_886@example.com,51,Houston,2023-09-02
+887,Customer_887,customer_887@example.com,35,New York,2023-05-09
+888,Customer_888,customer_888@example.com,47,Phoenix,2022-07-17
+889,Customer_889,customer_889@example.com,32,Los Angeles,2023-09-02
+890,Customer_890,customer_890@example.com,44,Phoenix,2023-07-31
+891,Customer_891,customer_891@example.com,68,Houston,2023-06-01
+892,Customer_892,customer_892@example.com,51,Phoenix,2023-05-29
+893,Customer_893,customer_893@example.com,69,Houston,2022-01-22
+894,Customer_894,customer_894@example.com,55,Houston,2022-04-22
+895,Customer_895,customer_895@example.com,50,Houston,2022-02-26
+896,Customer_896,customer_896@example.com,41,Houston,2022-03-07
+897,Customer_897,customer_897@example.com,32,Houston,2022-04-08
+898,Customer_898,customer_898@example.com,47,Los Angeles,2022-05-24
+899,Customer_899,customer_899@example.com,59,New York,2023-03-11
+900,Customer_900,customer_900@example.com,68,Chicago,2023-09-29
+901,Customer_901,customer_901@example.com,34,New York,2023-11-10
+902,Customer_902,customer_902@example.com,22,Houston,2022-03-27
+903,Customer_903,customer_903@example.com,46,Los Angeles,2023-08-11
+904,Customer_904,customer_904@example.com,21,Phoenix,2022-12-10
+905,Customer_905,customer_905@example.com,27,Los Angeles,2022-10-21
+906,Customer_906,customer_906@example.com,34,Houston,2023-07-25
+907,Customer_907,customer_907@example.com,27,Los Angeles,2023-10-12
+908,Customer_908,customer_908@example.com,34,Los Angeles,2023-09-03
+909,Customer_909,customer_909@example.com,37,Houston,2023-12-05
+910,Customer_910,customer_910@example.com,41,Los Angeles,2022-08-31
+911,Customer_911,customer_911@example.com,22,Chicago,2023-07-15
+912,Customer_912,customer_912@example.com,51,Chicago,2022-02-01
+913,Customer_913,customer_913@example.com,23,Los Angeles,2023-01-26
+914,Customer_914,customer_914@example.com,19,Phoenix,2022-10-04
+915,Customer_915,customer_915@example.com,30,Houston,2023-06-16
+916,Customer_916,customer_916@example.com,60,Chicago,2022-06-03
+917,Customer_917,customer_917@example.com,60,Phoenix,2023-01-18
+918,Customer_918,customer_918@example.com,65,Los Angeles,2022-03-09
+919,Customer_919,customer_919@example.com,28,Phoenix,2022-08-02
+920,Customer_920,customer_920@example.com,68,New York,2023-10-17
+921,Customer_921,customer_921@example.com,64,Chicago,2023-01-11
+922,Customer_922,customer_922@example.com,40,Los Angeles,2022-08-01
+923,Customer_923,customer_923@example.com,33,Houston,2022-03-20
+924,Customer_924,customer_924@example.com,48,Los Angeles,2023-12-27
+925,Customer_925,customer_925@example.com,28,Houston,2023-09-20
+926,Customer_926,customer_926@example.com,33,Los Angeles,2023-08-27
+927,Customer_927,customer_927@example.com,25,Phoenix,2023-01-16
+928,Customer_928,customer_928@example.com,21,Phoenix,2023-11-11
+929,Customer_929,customer_929@example.com,57,Phoenix,2022-02-27
+930,Customer_930,customer_930@example.com,21,New York,2022-01-26
+931,Customer_931,customer_931@example.com,42,Houston,2023-03-23
+932,Customer_932,customer_932@example.com,20,Phoenix,2022-03-07
+933,Customer_933,customer_933@example.com,49,New York,2022-09-11
+934,Customer_934,customer_934@example.com,20,Houston,2022-02-13
+935,Customer_935,customer_935@example.com,44,Los Angeles,2022-04-07
+936,Customer_936,customer_936@example.com,46,New York,2023-07-08
+937,Customer_937,customer_937@example.com,49,Chicago,2022-08-15
+938,Customer_938,customer_938@example.com,67,New York,2023-11-10
+939,Customer_939,customer_939@example.com,68,New York,2023-03-12
+940,Customer_940,customer_940@example.com,36,Houston,2023-08-24
+941,Customer_941,customer_941@example.com,38,Los Angeles,2023-01-14
+942,Customer_942,customer_942@example.com,22,Chicago,2022-06-27
+943,Customer_943,customer_943@example.com,35,Phoenix,2023-03-03
+944,Customer_944,customer_944@example.com,45,Phoenix,2023-12-10
+945,Customer_945,customer_945@example.com,59,New York,2022-11-03
+946,Customer_946,customer_946@example.com,39,Houston,2023-05-19
+947,Customer_947,customer_947@example.com,38,Houston,2022-09-25
+948,Customer_948,customer_948@example.com,23,Phoenix,2023-08-09
+949,Customer_949,customer_949@example.com,18,Chicago,2022-01-08
+950,Customer_950,customer_950@example.com,22,Los Angeles,2023-05-23
+951,Customer_951,customer_951@example.com,58,Chicago,2023-04-21
+952,Customer_952,customer_952@example.com,29,Los Angeles,2022-10-24
+953,Customer_953,customer_953@example.com,43,Phoenix,2022-06-13
+954,Customer_954,customer_954@example.com,63,Los Angeles,2023-04-30
+955,Customer_955,customer_955@example.com,51,Houston,2023-08-20
+956,Customer_956,customer_956@example.com,66,New York,2022-03-13
+957,Customer_957,customer_957@example.com,31,New York,2023-07-21
+958,Customer_958,customer_958@example.com,43,Phoenix,2023-07-13
+959,Customer_959,customer_959@example.com,62,Houston,2022-08-26
+960,Customer_960,customer_960@example.com,44,Chicago,2022-04-14
+961,Customer_961,customer_961@example.com,26,Houston,2022-07-29
+962,Customer_962,customer_962@example.com,43,New York,2023-07-08
+963,Customer_963,customer_963@example.com,64,New York,2023-04-13
+964,Customer_964,customer_964@example.com,39,Houston,2023-03-30
+965,Customer_965,customer_965@example.com,64,Houston,2022-09-25
+966,Customer_966,customer_966@example.com,47,New York,2023-01-21
+967,Customer_967,customer_967@example.com,60,Chicago,2023-01-22
+968,Customer_968,customer_968@example.com,65,Phoenix,2022-09-16
+969,Customer_969,customer_969@example.com,34,Phoenix,2022-10-10
+970,Customer_970,customer_970@example.com,43,Houston,2023-09-18
+971,Customer_971,customer_971@example.com,53,Phoenix,2022-02-09
+972,Customer_972,customer_972@example.com,18,New York,2023-05-01
+973,Customer_973,customer_973@example.com,25,New York,2022-08-08
+974,Customer_974,customer_974@example.com,66,Houston,2022-05-09
+975,Customer_975,customer_975@example.com,52,Houston,2023-06-04
+976,Customer_976,customer_976@example.com,69,Houston,2023-09-05
+977,Customer_977,customer_977@example.com,32,Chicago,2023-11-19
+978,Customer_978,customer_978@example.com,64,Phoenix,2023-09-11
+979,Customer_979,customer_979@example.com,39,Houston,2023-09-05
+980,Customer_980,customer_980@example.com,31,Los Angeles,2022-09-17
+981,Customer_981,customer_981@example.com,43,Los Angeles,2023-01-01
+982,Customer_982,customer_982@example.com,45,New York,2023-06-28
+983,Customer_983,customer_983@example.com,40,Phoenix,2023-10-11
+984,Customer_984,customer_984@example.com,31,Houston,2023-06-08
+985,Customer_985,customer_985@example.com,41,Los Angeles,2022-01-16
+986,Customer_986,customer_986@example.com,19,Phoenix,2022-05-09
+987,Customer_987,customer_987@example.com,62,New York,2023-07-29
+988,Customer_988,customer_988@example.com,43,Chicago,2022-04-19
+989,Customer_989,customer_989@example.com,31,Phoenix,2023-06-17
+990,Customer_990,customer_990@example.com,68,Phoenix,2023-11-01
+991,Customer_991,customer_991@example.com,24,Chicago,2022-09-26
+992,Customer_992,customer_992@example.com,20,Phoenix,2022-06-11
+993,Customer_993,customer_993@example.com,64,New York,2022-09-17
+994,Customer_994,customer_994@example.com,40,New York,2022-04-12
+995,Customer_995,customer_995@example.com,63,Chicago,2023-05-21
+996,Customer_996,customer_996@example.com,60,Houston,2023-07-25
+997,Customer_997,customer_997@example.com,64,Los Angeles,2022-09-04
+998,Customer_998,customer_998@example.com,62,Houston,2023-10-02
+999,Customer_999,customer_999@example.com,35,Phoenix,2023-06-21
+1000,Customer_1000,customer_1000@example.com,55,Los Angeles,2022-05-11
